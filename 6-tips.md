@@ -1,9 +1,9 @@
 ---
-title: Create
+title: Tips and Tricks
 nav: true
 ---
 
-# Create Charts and Graphs
+# Tips and Tricks
 
 Workshop sites using this template:
 

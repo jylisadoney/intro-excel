@@ -3,7 +3,7 @@ title: Organize
 nav: true
 ---
 
-# Part One: Organize
+# Part One: Organize Spreadsheets
 
 Edit the `_config.yml` to get your workshop website set up.
 

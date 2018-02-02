@@ -1,9 +1,9 @@
 ---
-title: Create
+title: Insert
 nav: true
 ---
 
-# Create Charts and Graphs
+# Insert Formulas and Functions
 
 Workshop sites using this template:
 

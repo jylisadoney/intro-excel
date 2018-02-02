@@ -1,9 +1,9 @@
 ---
-title: Content
+title: Format
 nav: true
 ---
 
-# Part Two: Create Lesson Content
+# Part Two: Format Data
 
 Edit the lesson Markdown files to create content. 
 See [Markdown in a Minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html).

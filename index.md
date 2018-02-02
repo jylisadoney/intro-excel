@@ -8,7 +8,7 @@ title: Home
 
 > hosted by [University of Idaho Library](https://www.lib.uidaho.edu/) {{ site.pub_year }}
 
-Do you want to learn the basics of Excel and a few time-saving tips? This workshop will get you started with Excel by introducing its terminology and simple ways to organize spreadsheets, format data, use formulas and functions, and insert charts and graphs.
+Do you want to learn the basics of Excel and a few time-saving tips? This workshop will get you started with Excel by introducing its terminology and simple ways to organize spreadsheets, format data, insert formulas and functions, and create charts and graphs. We will even learn a few tips and tricks that will make you an Excel power-user.
 
 <div class="toc" markdown="1">
 ## Contents:
