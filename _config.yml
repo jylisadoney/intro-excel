@@ -8,27 +8,26 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # Site settings
-title: workshop-template
+title: Introduction to Excel: Tips, Tricks, and Strategies
 # description and keywords for meta tags
-description: "Create a workshop website quick and easy!"
-keywords: "workshops, websites, gh-pages, jekyll"
+description: "Learn the basics of Excel and time saving strategies"
+keywords: "excel, introduction, workshops"
 
 # author settings for cc-by
-author: evan will
-pub_year: 2017
-github_username: evanwill
-twitter_username: EvanPeterWill
+author: Jylisa Doney
+pub_year: 2018
+github_username: jylisadoney
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template"
+repo: "https://github.com/jylisadoney/intro-excel"
 
 # site urls
 # add the url for the domain,
 # on gh-pages: https://username.github.io 
-url: https://evanwill.github.io
+url: https://jylisadoney.github.io
 # add subsection of the domain,
 # on gh-pages this is the name of the repository
-baseurl: /workshop-template
+baseurl: /intro-excel
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
