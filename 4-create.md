@@ -1,9 +1,9 @@
 ---
-title: Resources
+title: Create
 nav: true
 ---
 
-# Resources
+# Create Charts and Graphs
 
 Workshop sites using this template:
 
