@@ -3,8 +3,9 @@ title: Prep
 nav: true
 ---
 
-# Workshop Prep 
+# Workshop Prep and Downloads 
 
-1. Have a [GitHub](https://github.com) account.
-2. Fork or import this [repository](https://github.com/evanwill/workshop-template).
-3. Probably want to have [Git](https://git-scm.com/), [Jekyll](https://jekyllrb.com/), and a nice [text editor](https://code.visualstudio.com/) installed (although you could do it all in the GitHub web interface if you *really* wanted to).
+
+1. Bring a laptop with Excel installed or use one of ours
+	- If your laptop doesn't have Excel, please follow the [instructions to download MS Office](https://www.uidaho.edu/infrastructure/its/self-help/ms-office) from the University of Idaho Information Technology Services 
+2. Download the sample spreadsheet (insert hyperlink)

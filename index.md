@@ -4,11 +4,19 @@ title: Home
 
 {% include figure.html file="College_of_Education_University_of_Idaho_Workshop_scene_2273.jpg" alt="intro image here" width="75%" %}
 
-# Introduction to Excel: Tips, Tricks, and Strategies!
+# Introduction to Excel: Tips, Tricks, and Strategies
 
 > hosted by [University of Idaho Library](https://www.lib.uidaho.edu/) {{ site.pub_year }}
 
-Do you want to learn the basics of Excel and a few time-saving tips? This workshop will get you started with Excel by introducing its terminology and simple ways to organize spreadsheets, format data, insert formulas and functions, and create charts and graphs. We will even learn a few tips and tricks that will make you an Excel power-user.
+Do you want to learn the basics of Excel and a few time-saving tips? 
+
+This workshop will get you started with Excel by introducing its terminology and offering simple ways to:
+- organize spreadsheets
+- format data
+- insert formulas and functions
+- create charts and graphs
+
+We will even learn a few tips and tricks that will make you an Excel power-user.
 
 <div class="toc" markdown="1">
 ## Contents:
