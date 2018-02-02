@@ -3,7 +3,7 @@ title: Intro
 nav: true
 ---
 
-# Introduction
+# Introduction to Key Terminology
 
 One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/).
 It provides free static web hosting from any repository.
