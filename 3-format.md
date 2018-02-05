@@ -3,24 +3,45 @@ title: Format
 nav: true
 ---
 
-# Part Two: Format Data
+# Part Two: Format and Sort Data
 
-Edit the lesson Markdown files to create content. 
-See [Markdown in a Minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html).
+After we've organized our spreadsheet, we can work on formatting our data.
 
-Lorem ipsum `dolor sit amet`, consectetur adipiscing elit. Pellentesque eu velit felis. 
-Duis *fermentum est nec* mollis scelerisque. 
-Vivamus interdum **efficitur mauris**, et dignissim velit egestas vitae. Cras dignissim sagittis varius.
-Pellentesque eu laoreet dui.
-Praesent congue, eros eget accumsan euismod, lorem dui vulputate leo, tincidunt efficitur risus metus ut risus.
+## Format dates
+In Excel, dates are easier to organize and sort when they are represented numerically.
 
-{% include figure.html file="College_of_Education_University_of_Idaho_Workshop_scene_2273.jpg" alt="workshop scene" caption="Make sure participants are on the same page!" width="75%" %}
+Let's fix our `Hire Date` column to make it more readable.
+* Left click on `Column E`
+* Navigate to the `Home` tab and the `Number` section
+* Left click on the `Number Format Icon`
+* Left click on `Date` under Category
+* Scroll down and left click on `3/14/2012`
+* Click `OK`
 
-> Sed pharetra ipsum orci, eu cursus turpis semper egestas. 
-> Pellentesque sodales, felis auctor auctor rutrum, velit quam interdum erat, sit amet placerat urna nisl at justo.
+We can now see that our `Hire Date` column is better organized and our dates are represented by numbers.
 
-## Furthermore... 
+## Format currency
+We can also format our `Sales Q1` and `Sales Q2` columns so that the data is displayed as Currency.
 
-Nam maximus eget orci id pretium. Pellentesque feugiat mauris eu nulla viverra consectetur. Nullam rutrum augue eget mauris accumsan, ac elementum tellus lacinia. Sed pretium aliquet tortor in ornare. Sed eget aliquet metus. Integer sed arcu turpis. Duis auctor sollicitudin semper. Cras posuere, neque nec varius cursus, massa libero sodales elit, sed tempor nibh ex sit amet nisi. Quisque consequat ante quis diam malesuada, in imperdiet tortor mattis. Aliquam erat volutpat. Morbi tortor elit, sagittis quis nibh ut, gravida cursus arcu.
+To do this:
+* Left click on `Column C` and drag to highlight `Column D`
+* Navigate to the `Home` tab and the `Number` section
+* Left click on the `Drop-Down` box
+* Left click on `Currency`
 
-Ut dapibus lectus tristique efficitur dictum. Quisque efficitur ornare sagittis. Donec ex sem, volutpat quis scelerisque quis, scelerisque non neque. Vivamus convallis felis vel eros pulvinar faucibus. Aliquam finibus pretium odio a pharetra. Nullam ac commodo magna. Fusce et feugiat sem. Nunc vitae scelerisque metus. Aenean sodales placerat mi in aliquet. Curabitur pulvinar auctor mauris quis faucibus. Ut commodo imperdiet ante, at dignissim tellus ultricies ut. Donec at lacus ultrices sem vulputate semper. Donec commodo porta nunc, non tristique mi interdum quis. Phasellus rhoncus bibendum ipsum, ac malesuada augue pulvinar et. Etiam finibus lacus massa, sit amet faucibus lorem consequat sit amet. 
+## Sort data
+Now let’s say we want to organize our sheet based on when an employee joined the company.
+
+To do this:
+* Highlight all of the data
+  * Option 1: Left click on `Cell A1` and drag
+  * Option 2: Hold down `Ctrl A` on your keyboard
+* Navigate to the `Data` tab and the `Sort & Filter` section
+* Left click on `Sort`
+* Check the ‘My data has headers’ box
+* In the Sort by drop-down box, left click on `Hire Date`
+  * Set the sort On drop-down box to `Values`
+  * Set the order drop-down box to `Oldest to Newest`
+* Left click on `OK`
+
+Now the data in our sheet is sorted based on Hire Date
