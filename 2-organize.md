@@ -2,31 +2,70 @@
 title: Organize
 nav: true
 ---
+All activities in this workshop are built off `IntroExcelSampleWorkbook.xlsx`. _Add link_
 
 # Part One: Organize Spreadsheets
 
-Edit the `_config.yml` to get your workshop website set up.
+When working in Excel workbooks, we often need to organize our sheet to make the data readable and visually appealing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Pellentesque eu velit felis. 
-Duis fermentum est nec mollis scelerisque. Vivamus interdum efficitur mauris, et dignissim velit egestas vitae. 
-Cras dignissim sagittis varius. Pellentesque eu laoreet dui.
+## Resize columns and rows
+If you encounter columns or rows that are too big or too small, you can always resize them.
 
-```
-Praesent congue:
-    eros = eget
-    accumsan euismod
-```
+Let's work on resizing two columns.
 
-Praesent congue, eros eget accumsan euismod, lorem dui vulputate leo, tincidunt efficitur risus metus ut risus. 
-Sed pharetra ipsum orci, eu cursus turpis semper egestas. 
+### Autofit
+* Left click on `Column A` to highlight it
+* Navigate to the `Home` tab and the `Cells` section
+* Left click on `Format`
+* Select `Autofit Column Width`
+** Can also enter in a width or height value using `Row Height` or `Column Width`
 
-> Pellentesque sodales, felis auctor auctor rutrum, velit quam interdum erat, sit amet placerat urna nisl at justo.
+### Drag a boundary
+* Hover your cursor between `Column B` and `Column C` until you get the _vertical line with two arrows_ cursor
+* Left click and `drag the column boundary` column to the width you want
 
-## Substep
+## Wrap text
 
-Nam maximus eget orci id pretium. Pellentesque feugiat mauris eu nulla viverra consectetur. Nullam rutrum augue eget mauris accumsan, ac elementum tellus lacinia. Sed pretium aliquet tortor in ornare. Sed eget aliquet metus. Integer sed arcu turpis. Duis auctor sollicitudin semper. Cras posuere, neque nec varius cursus, massa libero sodales elit, sed tempor nibh ex sit amet nisi. Quisque consequat ante quis diam malesuada, in imperdiet tortor mattis. Aliquam erat volutpat. Morbi tortor elit, sagittis quis nibh ut, gravida cursus arcu.
+## Rename a column header
+Sometimes when working with data, we need to rename our column headers.
 
-{% include figure.html file="College_of_Education_University_of_Idaho_Workshop_scene_2273.jpg" alt="workshop scene" caption="Be sure to replace all the example values!" width="75%" %}
+Let's say we want to rename `Column B` to `Employees`.
 
-Ut dapibus lectus tristique efficitur dictum. Quisque efficitur ornare sagittis. Donec ex sem, volutpat quis scelerisque quis, scelerisque non neque. Vivamus convallis felis vel eros pulvinar faucibus. Aliquam finibus pretium odio a pharetra. Nullam ac commodo magna. Fusce et feugiat sem. Nunc vitae scelerisque metus. Aenean sodales placerat mi in aliquet. Curabitur pulvinar auctor mauris quis faucibus. Ut commodo imperdiet ante, at dignissim tellus ultricies ut. Donec at lacus ultrices sem vulputate semper. Donec commodo porta nunc, non tristique mi interdum quis. Phasellus rhoncus bibendum ipsum, ac malesuada augue pulvinar et. Etiam finibus lacus massa, sit amet faucibus lorem consequat sit amet. 
+To do this, simply click on `Cell B1` and type the word _Employees_.
+
+## Freeze panes
+Right now, our sheet only includes 10 rows. However, if you have a spreadsheet with hundreds of rows or columns, it can be difficult to keep your column headings visible.
+
+What we can do is `Freeze Panes` to keep part of the sheet visible when we scroll.
+
+Let's work on two different ways of freezing panes.
+
+### Freeze the top rows
+* Navigate to the `View` tab
+* Left click on `Freeze Panes`
+* Select `Freeze Top Row`
+
+### Freeze a column and row at the same time
+* Left click on `Cell C2`
+* Navigate to the `View` tab
+* Left click on `Freeze Panes`
+* Select `Freeze Panes`
+
+### Unfreeze panes
+To unfreeze panes, left click on `Freeze Panes` again and click `Unfreeze Panes`.
+
+## Insert, delete, and rename sheets
+Depending on the data you are working with, you may have multiple `sheets` in your `workbook`
+
+* To `insert a sheet`
+** Left click the plus (+) button at the bottom of the 
+* To `delete a sheet`
+** Right click on the sheet name and left click `Delete`
+** _Caution!_ This will delete ALL data included in that sheet
+
+Let's practice renaming a sheet.
+* Left click on `Sheet1`
+* Right click on `Sheet1`
+* Left click on `Rename`
+* Type `Employee Sales`
+** Left click somewhere in your workbook to save this rename
