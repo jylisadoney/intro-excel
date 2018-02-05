@@ -21,11 +21,11 @@ After opening an Excel workbook, it is important to save our file and name and v
 
 In your file name, you can include:
 ```
-* Assignment or project names
-* Your name or initials
-* Date of last edit
-* Version number
-* Geographic coordinates, etc.
+Assignment or project names
+Your name or initials
+Date of last edit
+Version number
+Geographic coordinates, etc.
 
 For example: SOC320_JRD_20180205_v001
 ```
@@ -46,10 +46,9 @@ Finally, keep your file naming as consistent as possible within the same assignm
 
 
 Left click on File and Save As, browse to find a location to save the workbook, and add:
-
 ```
-* your name or initials
-* today's date
-* version number
+your name or initials
+today's date
+version number
 ```
 Then click Save.
