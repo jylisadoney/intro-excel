@@ -3,7 +3,9 @@ title: Intro
 nav: true
 ---
 
-# Introduction to Key Terminology
+# Introduction
+
+## Key Terminology
 
 Learning Excel is kind of like learning a new language.
 
