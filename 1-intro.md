@@ -16,3 +16,26 @@ The data in Excel workbooks are organized into *columns* and *rows*. The interse
 *Tabs* appear at the top of the workbook and help you utilize many Excel features, such as creating charts and graphs or sorting your data.
 
 The *formula bar* is where you can see the formulas and functions you've inserted into certain cells.
+
+After opening an Excel workbook, it is important to save our file and name and version it in a way that includes enough detail but it also easy to understand.
+
+In your file name, you can include:
+*Assignment or project names
+*Your name or initials
+*Date of last edit
+*Version number
+*Geographic coordinates, etc.
+
+For example: SOC320_JRD_20180205_v001
+
+Some software does not recognize spaces in file names so it is best to use underscores _ or dashes - instead. Also, file names often can't recognize special characters like ~ ! @ # $ % ^ & * ( ) ` ; < > ? , [ ] { } ' " |, so you should avoid those as well.
+
+It is also helpful to write dates as YYYYMMDD to make sure they stay in chronological order.
+
+When versioning your files with numbers, consider using leading zeros so that files sort properly:
+*001, 002 ... 010 ... 100
+
+Finally, keep your file naming as consistent as possible within the same assignment or project.
+*SOC320_JRD_20180205_v001
+*SOC320_JRD_20180205_v002
+*SOC320_JRD_20180205_v010
