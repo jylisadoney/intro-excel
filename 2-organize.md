@@ -18,7 +18,7 @@ Let's work on resizing two columns.
 * Navigate to the `Home` tab and the `Cells` section
 * Left click on `Format`
 * Select `Autofit Column Width`
-** Can also enter in a width or height value using `Row Height` or `Column Width`
+  * Can also enter in a width or height value using `Row Height` or `Column Width`
 
 ### Drag a boundary
 * Hover your cursor between `Column B` and `Column C` until you get the _vertical line with two arrows_ cursor
@@ -58,14 +58,14 @@ To unfreeze panes, left click on `Freeze Panes` again and click `Unfreeze Panes`
 Depending on the data you are working with, you may have multiple `sheets` in your `workbook`
 
 * To `insert a sheet`
-** Left click the plus (+) button at the bottom of the 
+  * Left click the plus (+) button at the bottom of the 
 * To `delete a sheet`
-** Right click on the sheet name and left click `Delete`
-** _Caution!_ This will delete ALL data included in that sheet
+  * Right click on the sheet name and left click `Delete`
+  * _Caution!_ This will delete ALL data included in that sheet
 
 Let's practice renaming a sheet.
 * Left click on `Sheet1`
 * Right click on `Sheet1`
 * Left click on `Rename`
 * Type `Employee Sales`
-** Left click somewhere in your workbook to save this rename
+  * Left click somewhere in your workbook to save this rename
