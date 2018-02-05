@@ -17,6 +17,8 @@ The data in Excel workbooks are organized into `columns` and `rows`. The interse
 
 The `formula bar` is where you can see the formulas and functions you've inserted into certain cells.
 
+## File Names and Versioning
+
 After opening an Excel workbook, it is important to save our file and name and version it in a way that includes enough detail but it also easy to understand.
 
 In your file name, you can include:
@@ -42,8 +44,7 @@ Finally, keep your file naming as consistent as possible within the same assignm
 * SOC320_JRD_20180205_v002
 * SOC320_JRD_20180205_v010
 
-##Rename our sample workbook using what we've learned.
-
+## Rename our sample workbook using what we've learned.
 
 Left click on File and Save As, browse to find a location to save the workbook, and add:
 * your name or initials
