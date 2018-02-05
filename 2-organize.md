@@ -2,7 +2,7 @@
 title: Organize
 nav: true
 ---
-All activities in this workshop are built off `IntroExcelSampleWorkbook.xlsx`. _Add link_
+All activities in this workshop are built off `IntroExcelSampleWorkbook.xlsx`. **Add link**
 
 # Part One: Organize Spreadsheets
 
@@ -21,7 +21,7 @@ Let's work on resizing two columns.
   * Can also enter in a width or height value using `Row Height` or `Column Width`
 
 ### Drag a boundary
-* Hover your cursor between `Column B` and `Column C` until you get the _vertical line with two arrows_ cursor
+* Hover your cursor between `Column B` and `Column C` until you get the **vertical line with two arrows** cursor
 * Left click and `drag the column boundary` column to the width you want
 
 ## Wrap text
@@ -31,7 +31,7 @@ Sometimes when working with data, we need to rename our column headers.
 
 Let's say we want to rename `Column B` to `Employees`.
 
-To do this, simply click on `Cell B1` and type the word _Employees_.
+To do this, simply click on `Cell B1` and type the word **Employees**.
 
 ## Freeze panes
 Right now, our sheet only includes 10 rows. However, if you have a spreadsheet with hundreds of rows or columns, it can be difficult to keep your column headings visible.
@@ -61,7 +61,7 @@ Depending on the data you are working with, you may have multiple `sheets` in yo
   * Left click the plus (+) button at the bottom of the 
 * To `delete a sheet`
   * Right click on the sheet name and left click `Delete`
-  * _Caution!_ This will delete ALL data included in that sheet
+  * **Caution!** This will delete ALL data included in that sheet
 
 Let's practice renaming a sheet.
 * Left click on `Sheet1`
