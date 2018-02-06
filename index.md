@@ -6,8 +6,6 @@ title: Home
 
 # Introduction to Excel: Tips, Tricks, and Strategies
 
-> hosted by <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library</a> {{ site.pub_year }}
-
 Do you want to learn the basics of Excel and a few time-saving tips? 
 
 This workshop will get you started with Excel by introducing its terminology and offering simple ways to:
@@ -26,6 +24,8 @@ We will even learn a few tips and tricks that will make you an Excel power-user.
 {% endfor %}
 </div>
 
+> hosted by the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library</a> ({{ site.pub_year }})
+>
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
 > images and content: cc-by-sa <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> {{ site.pub_year}}. (get [source code]({{ site.repo }}))
