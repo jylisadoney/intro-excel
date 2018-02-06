@@ -35,21 +35,18 @@ In your file name, you can include:
 * Geographic coordinates
 * Type of data, etc.
 
+`For example: SOC320_JRD_20180205_v001`
+
+Spaces don't work well in file names, but you can use `underscores (_)` or `dashes (-)` instead. 
+
+Special characters should also be avoided: 
 ```
-For example: SOC320_JRD_20180205_v001
+~ ! @ # $ % ^ & * ( ) ; < > ? , [ ] { } ' " |
 ```
 
-Software may not recognize spaces in file names so it is best to use `underscores (_)` or `dashes (-)` instead. 
+If you include dates in your file names, it helps to them as YYYYMMDD to make sure your files stay in chronological order.
 
-Also, file names often can't recognize special characters like: 
-`~ ! @ # $ % ^ & * ( ) ; < > ? , [ ] { } ' " |`, so you should avoid those as well.
-
-If including dates in your file names, it helps to them as YYYYMMDD to make sure your files stay in chronological order.
-
-When versioning your files with numbers, consider using leading zeros so that files sort properly:
-```
-001, 002 ... 010 ... 100
-```
+When versioning your files with numbers, consider using leading zeros (`001, 002 ... 010 ... 100) so that files sort properly.
 
 Finally, keep your file naming as consistent as possible within the same assignment or project.
 * SOC320_JRD_20180205_v001
