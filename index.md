@@ -13,8 +13,8 @@ Do you want to learn the basics of Excel and a few time-saving tips?
 This workshop will get you started with Excel by introducing its terminology and offering simple ways to:
 - organize spreadsheets
 - format data
-- insert formulas and functions
-- create charts and graphs
+- insert functions
+- create charts
 
 We will even learn a few tips and tricks that will make you an Excel power-user.
 
