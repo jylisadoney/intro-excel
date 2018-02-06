@@ -72,4 +72,4 @@ Let's practice renaming a sheet.
 
 # More Help
 
-To learn more about organizing spreadsheets, visit [Microsoft's Enter and Format Data website](https://support.office.com/en-us/article/enter-and-format-data-fef13169-0a84-4b92-a5ab-d856b0d7c1f7?ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Layout).
+To learn more about organizing spreadsheets, visit <a href="https://support.office.com/en-us/article/enter-and-format-data-fef13169-0a84-4b92-a5ab-d856b0d7c1f7?ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Layout" target="_blank">Microsoft's Enter and Format Data website</a>.

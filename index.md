@@ -6,7 +6,7 @@ title: Home
 
 # Introduction to Excel: Tips, Tricks, and Strategies
 
-> hosted by [University of Idaho Library](https://www.lib.uidaho.edu/) {{ site.pub_year }}
+> hosted by <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library</a> {{ site.pub_year }}
 
 Do you want to learn the basics of Excel and a few time-saving tips? 
 
