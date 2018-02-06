@@ -11,7 +11,7 @@ Today, we are going to focus on creating a `Bar Chart` that compares each employ
 
 ## Create a Bar Chart
 
-Our first step is to 
+Our first step is to:
 * Highlight all of our data
   * Left click on `Cell A1` and drag to highlight all data OR
   * Hit `Ctrl A` on your keyboard
@@ -21,7 +21,7 @@ We can now work on creating our chart.
 * Left click the picture of the `Bar Chart`
 * Left click `2-D Clustered Column` (option 1)
 
-Right away, we see that this chart is a *mess* and the visualization is confusing.
+Right away, we see that this chart is a **mess** and the visualization is confusing.
 
 `But we can fix it!`
 
@@ -86,4 +86,4 @@ Our legend is now positioned to the `right` of our `bar chart`.
 
 Excel includes numerous other charts and graphs and to learn more about them, navigate to the `Insert` tab and the `Charts` section. 
 
-You can also visit `[Microsoft's Available Chart Types website](https://support.office.com/en-us/article/available-chart-types-in-office-a6187218-807e-4103-9e0a-27cdb19afb90?ui=en-US&rs=en-US&ad=US)`
+You can also visit [Microsoft's Available Chart Types website](https://support.office.com/en-us/article/available-chart-types-in-office-a6187218-807e-4103-9e0a-27cdb19afb90?ui=en-US&rs=en-US&ad=US)
