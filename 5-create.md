@@ -82,7 +82,7 @@ To position our chart legend from the default location:
 
 Our legend is now positioned to the `right` of our `bar chart`.
 
-# More help
+# More Help
 Excel includes numerous other charts and graphs and to learn more about them, navigate to the `Insert` tab and the `Charts` section. 
 
 You can also visit [Microsoft's Available Chart Types website](https://support.office.com/en-us/article/available-chart-types-in-office-a6187218-807e-4103-9e0a-27cdb19afb90?ui=en-US&rs=en-US&ad=US)
