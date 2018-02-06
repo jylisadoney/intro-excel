@@ -17,6 +17,8 @@ Below are a few tips and tricks that will make use a power-user
 
 Let’s say we want to separate our employee’s first names from their last names in the `Salesperson` column.
 
+To do this, navigate to the `Tricks` sheet in our workbook
+
 Our first step is to insert a new column to the left of `Sales Q1`
 * Left click on `Column C`
 * Right click then and left click on `Insert`
