@@ -11,6 +11,8 @@ Today, we are going to focus on creating a `Bar Chart` that compares each employ
 
 ## Create a bar chart
 
+First, let's navigate to the `Charts` sheet in our workbook.
+
 Our first step is to:
 * Highlight all of our data
   * Left click on `Cell A1` and drag to highlight all data OR
