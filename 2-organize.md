@@ -2,7 +2,7 @@
 title: Organize
 nav: true
 ---
-All activities in this workshop are built off `IntroExcelSampleWorkbook.xlsx`. **Add link**
+Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
 
 # Part One: Organize Spreadsheets
 

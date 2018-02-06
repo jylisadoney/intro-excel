@@ -2,6 +2,7 @@
 title: Create
 nav: true
 ---
+Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
 
 # Create Charts and Graphs
 
