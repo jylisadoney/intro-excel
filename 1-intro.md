@@ -3,6 +3,8 @@ title: Intro
 nav: true
 ---
 
+<a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a>
+
 # Introduction
 
 ## Key Terminology
@@ -34,7 +36,10 @@ In your file name, you can include:
 For example: SOC320_JRD_20180205_v001
 ```
 
-Some software does not recognize spaces in file names so it is best to use underscores _ or dashes - instead. Also, file names often can't recognize special characters like ~ ! @ # $ % ^ & * ( ) ` ; < > ? , [ ] { } ' " |, so you should avoid those as well.
+Some software does not recognize spaces in file names so it is best to use `underscores _` or `dashes -` instead. 
+
+Also, file names often can't recognize special characters like: 
+`~ ! @ # $ % ^ & * ( ) ` ; < > ? , [ ] { } ' " |`, so you should avoid those as well.
 
 It is also helpful to write dates as YYYYMMDD to make sure they stay in chronological order.
 
@@ -47,10 +52,10 @@ Finally, keep your file naming as consistent as possible within the same assignm
 * SOC320_JRD_20180205_v010
 
 ## Rename our sample workbook using what we've learned.
-
-Left click on File and Save As, browse to find a location to save the workbook, and add:
-* your name or initials
-* today's date
-* version number
-
-Then click Save.
+* Left click on `File` and `Save As`
+* Browse to find a location to save the workbook
+* Add to the file name:
+  * your name or initials
+  * today's date
+  * version number
+* Click `Save`
