@@ -44,4 +44,14 @@ To do this:
   * Set the order drop-down box to `Oldest to Newest`
 * Left click on `OK`
 
-Now the data in our sheet is sorted based on Hire Date
+Now the data in our sheet is sorted based on Hire Date.
+
+# More Help
+
+Excel includes numerous ways to `format data`. To learn more about them, navigate to the `Home` tab and the `Numbers` section. 
+
+You can also visit [Microsoft's Enter and Format Data website](https://support.office.com/en-us/article/enter-and-format-data-fef13169-0a84-4b92-a5ab-d856b0d7c1f7?ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Format_data).
+
+To learn more about other ways to `sort data`, navigate to the `Data` tab and the `Sort & Filter` section.
+
+You can also visit [Microsoft's Import and Analyze Data website](https://support.office.com/en-us/article/import-and-analyze-data-ccd3c4a6-272f-4c97-afbb-d3f27407fcde?ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Sort_and_filter).

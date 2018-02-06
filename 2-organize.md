@@ -69,3 +69,7 @@ Let's practice renaming a sheet.
 * Left click on `Rename`
 * Type `Employee Sales`
   * Left click somewhere in your workbook to save this rename
+
+# More Help
+
+To learn more about organizing spreadsheets, visit [Microsoft's Enter and Format Data website](https://support.office.com/en-us/article/enter-and-format-data-fef13169-0a84-4b92-a5ab-d856b0d7c1f7?ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Layout).

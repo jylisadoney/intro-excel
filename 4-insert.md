@@ -68,6 +68,6 @@ Since `Column B` is now duplicated, we can delete it.
 * Right click and select `Delete`
 
 # More Help
-Excel includes numerous other functions and to learn more about them, navigate to the `Formulas` tab and the `Function Library` section. 
+Excel includes numerous other functions. To learn more about them, navigate to the `Formulas` tab and the `Function Library` section. 
 
-You can also visit [Microsoft's Excel Functions (by Category) website](https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb?ui=en-US&rs=en-US&ad=US)
+You can also visit [Microsoft's Excel Functions (by Category) website](https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb?ui=en-US&rs=en-US&ad=US).
