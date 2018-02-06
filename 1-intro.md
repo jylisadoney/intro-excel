@@ -39,7 +39,6 @@ In your file name, you can include:
 Spaces don't work well in file names, but you can use `underscores (_)` or `dashes (-)` instead. 
 
 Special characters should also be avoided: `~ ! @ # $ % ^ & * ( ) ; < > ? , [ ] { } ' " |`
-```
 
 If you include dates in your file names, it helps to insert them as YYYYMMDD to make sure your files stay in chronological order.
 
