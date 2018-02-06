@@ -22,7 +22,7 @@ To do this, we first have to insert a new column after `Sales Q2 (Column D)`.
 
 Now we can calculate the total amount of sales with the `SUM` function.
 * Type `=SUM(C2,D2)`
-  * Type `C2,D2` *OR*
+  * Type `C2,D2` **OR**
   * Left click `C2`, type a `comma (,)` then left click `D2`
 * Hit `Enter` on your keyboard to `SUM` these two cells together
 
@@ -45,7 +45,7 @@ To do this, we first have to insert a new column before `Salesperson (Column B)`
 Now, we can change the capitalization with the `PROPER` function
 * Left click on `Cell B1`
 * Type =proper(A1)
-  * Type `A1` *OR*
+  * Type `A1` **OR**
   * Left click `A1`
 * Hit `Enter` on your keyboard
 
