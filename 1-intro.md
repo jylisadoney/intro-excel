@@ -20,36 +20,39 @@ The data in Excel workbooks are organized into `columns` and `rows`. The interse
 
 The `formula bar` is where you can see the formulas and functions you've inserted into certain cells.
 
-## File Names and Versioning
+## Naming Files
 
-After opening an Excel workbook, it is important to save, name, and version it so it is easy to find in the future.
+It is important to save, name, and version an Excel workbook so it is easy to find in the future.
 
-In your file name, you can include:
+### File names
+Consider including:
 * Assignment or project names
 * Your name or initials
 * Date of last edit
-* Version number
+* Version numbers
 * Geographic coordinates
 * Type of data, etc.
 
-`For example: SOC320_JRD_20180205_v001`
+`For example: SOC320_SMM_20180205_v001`
 
+### Characters
 Spaces don't work well in file names, but you can use `underscores (_)` or `dashes (-)` instead. 
 
 Special characters should also be avoided: `~ ! @ # $ % ^ & * ( ) ; < > ? , [ ] { } ' " |`
 
-If you include dates in your file names, it helps to insert them as YYYYMMDD to make sure your files stay in chronological order.
+### Dates
+To make sure your files stay in chronological order, insert them as `YYYYMMDD`.
 
-When versioning your files with numbers, consider using `leading zeros` (001, 002 ... 010 ... 100) so that files sort properly.
+### Versioning
+Consider using `leading zeros` (001, 002 ... 010 ... 100) for version numbers so files sort in order.
 
+### Consistency
 Finally, keep your file naming as consistent as possible within the same assignment or project.
-* SOC320_JRD_20180205_v001
-* SOC320_JRD_20180205_v002
-* SOC320_JRD_20180205_v010
+* SOC320_SMM_20180205_v001
+* SOC320_SMM_20180205_v002
+* SOC320_SMM_20180205_v010
 
 ## Rename our sample workbook
-
-To rename our sample workbook using what we've learned:
 * Left click on `File` and `Save As`
 * Browse to find a location to save the workbook
 * To the file name, add:
