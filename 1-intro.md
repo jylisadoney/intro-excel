@@ -4,19 +4,17 @@ nav: true
 ---
 Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
 
-# Introduction
-
-## Key Terminology
+# Introduction to Key Terminology
 
 Learning Excel is kind of like learning a new language.
-
-{% include figure.html file="ExcelSample_Terminology.jpg" alt="Excel workbook with terminology labels" caption="Excel Spreadsheet Terminology" %}
 
 An entire Excel file is called a `workbook` and every workbook includes `sheets`. When you open a new Excel file, Sheet1 is automatically created at the bottom of the workbook. 
 
 `Excel workbooks can have multiple sheets.`
 
 The data in Excel workbooks are organized into `columns` and `rows`. The intersection between a column and a row is a `cell`.
+
+{% include figure.html file="ExcelSample_Terminology.jpg" alt="Excel workbook with terminology labels" caption="Excel Spreadsheet Terminology" %}
 
 `Tabs` appear at the top of the workbook and help you utilize many Excel features, such as creating charts and graphs or sorting your data.
 
