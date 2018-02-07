@@ -1,9 +1,6 @@
 ---
 title: Home
 ---
-
-{% include figure.html file="College_of_Education_University_of_Idaho_Workshop_scene_2273.jpg" alt="intro image here" width="75%" %}
-
 # Introduction to Excel: Tips, Tricks, and Strategies
 
 Do you want to learn the basics of Excel and a few time-saving tips? 
