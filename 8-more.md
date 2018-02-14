@@ -15,11 +15,9 @@ If you tend to use the same layout in Excel workbooks, you can save it as a `tem
 ### Set the default personal templates location
 * Left click `File` then `Options`
 * Left click on the `Save` tab
-* Under the `Save workbooks` section, enter this file path
-* Replace [User Name] with your user name
-```
-		C:\Users\[UserName]\Documents\Custom Office Templates
-```
+* Navigate to the `Save workbooks` section
+* Type this file path: `C:\Users\[UserName]\Documents\Custom Office Templates`
+  * Replace [User Name] with your user name
 * Left click `OK`
 
 All templates you save to the `My Templates` folder will now appear as options when you create a new Excel workbook
@@ -38,9 +36,7 @@ All templates you save to the `My Templates` folder will now appear as options w
 * Left click `Personal`
 * Double-click the template you want to use
 
-Excel will then create a new workbook that is based on this template.
-
-**Make sure to save this new workbook**
+Excel will then create a new workbook based on this template.
 
 ## Conditional formatting
 
