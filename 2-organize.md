@@ -11,18 +11,18 @@ When working in Excel workbooks, we often need to organize our sheet to make the
 ## Resize columns and rows
 If you encounter columns or rows that are too big or too small, you can always resize them.
 
-Let's work on resizing two columns.
+**Practice: Resizing columns**
 
 ### Autofit
-* Left click on `Column A` to highlight it
+* Left click `Column A` to highlight it
 * Navigate to the `Home` tab and the `Cells` section
-* Left click on `Format`
+* Left click `Format`
 * Select `Autofit Column Width`
-  * Can also enter in a width or height value using `Row Height` or `Column Width`
+  * You can also enter in a width or height value using `Row Height` or `Column Width`
 
-### Drag a boundary
+### Drag to resize
 * Hover your cursor between `Column B` and `Column C` until you get the **vertical line with two arrows** cursor
-* Left click and `drag the column boundary` column to the width you want
+* Left click and `drag the column boundary` to the width you want
 
 ## Wrap text
 
