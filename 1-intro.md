@@ -4,7 +4,9 @@ nav: true
 ---
 Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
 
-# Introduction to Key Terminology
+# Key Terminology and Naming Files
+
+## Terminology
 
 Learning Excel is kind of like learning a new language.
 
@@ -24,12 +26,12 @@ The intersection between a column and a row is a `cell`.
 
 The `formula bar` is where you can see the formulas and functions you've inserted into certain cells.
 
-# Naming Files
+## Naming Files
 
 It is important to save, name, and version an Excel workbook so it is easy to find in the future.
 
-## File names
-Consider including:
+### File names
+In your file names, consider including:
 * Assignment or project names
 * Your name or initials
 * Date of last edit
@@ -39,28 +41,28 @@ Consider including:
 
 `For example: SOC320_SMM_20180205_v001`
 
-## Characters
+### Characters
 Spaces don't work well in file names, but you can use `underscores (_)` or `dashes (-)` instead. 
 
-Special characters should also be avoided: `~ ! @ # $ % ^ & * ( ) ; < > ? , [ ] { } ' " |`
+Special characters should also be avoided: `~ ! @ # $ % ^ & * ( ) ; < > ? , [ ] { } ' " |`.
 
-## Dates
-To make sure your files stay in chronological order, insert them as `YYYYMMDD`.
+### Dates
+To make sure your files stay in chronological order, insert dates as `YYYYMMDD`.
 
-## Versioning
-Consider using `leading zeros` (001, 002 ... 010 ... 100) for version numbers so files sort in order.
+### Versioning
+Consider using `leading zeros` (001, 002 ... 010 ... 100) for version numbers so files sort in numeric order.
 
-## Consistency
+### Consistency
 Finally, keep your file naming as consistent as possible within the same assignment or project.
 * SOC320_SMM_20180205_v001
 * SOC320_SMM_20180205_v002
 * SOC320_SMM_20180205_v010
 
 **Practice: Rename our sample workbook**
-* Left click on `File` and `Save As`
+* Left click `File` then `Save As`
 * Browse to find a location to save the workbook
-* To the file name, add:
+* Rename the file and add:
   * Your name or initials
   * Today's date
   * A version number
-* Left click on `Save`
+* Left click `Save`
