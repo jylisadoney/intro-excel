@@ -58,7 +58,7 @@ Finally, keep your file naming as consistent as possible within the same assignm
 * SOC320_SMM_20180205_v002
 * SOC320_SMM_20180205_v010
 
-# Practice: Rename our sample workbook
+## Practice: Rename our sample workbook
 * Left click `File` then `Save As`
 * Browse to find a location to save the workbook
 * Rename the file and add:

@@ -11,7 +11,7 @@ When working in Excel workbooks, we often need to organize our sheet to make the
 ## Resize columns and rows
 If you encounter columns or rows that are too big or too small, you can always resize them.
 
-**Practice: Resizing columns**
+## Practice: Resize columns
 
 ### Autofit
 * Left click `Column A` to highlight it
@@ -23,8 +23,6 @@ If you encounter columns or rows that are too big or too small, you can always r
 ### Drag to resize
 * Hover your cursor between `Column B` and `Column C` until you get the **vertical line with two arrows** cursor
 * Left click and `drag the column boundary` to the width you want
-
-## Wrap text
 
 ## Rename a column header
 Sometimes when working with data, we need to rename our column headers.
@@ -38,7 +36,7 @@ Right now, our sheet only includes 10 rows. However, if you have a spreadsheet w
 
 What we can do is `Freeze Panes` to keep part of the sheet visible when we scroll.
 
-Let's work on two different ways of freezing panes.
+## Practice: Freeze and unfreeze panes
 
 ### Freeze the top rows
 * Navigate to the `View` tab
@@ -63,7 +61,7 @@ Depending on the data you are working with, you may have multiple `sheets` in yo
   * Right click on the sheet name and left click `Delete`
   * **Caution!** This will delete ALL data included in that sheet
 
-Let's practice renaming a sheet.
+## Practice: Rename a sheet
 * Left click on `Sheet1`
 * Right click on `Sheet1`
 * Left click on `Rename`
