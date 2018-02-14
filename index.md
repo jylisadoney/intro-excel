@@ -3,9 +3,9 @@ title: Home
 ---
 # Introduction to Excel: Tips, Tricks, and Strategies
 
-Do you want to learn the basics of Excel and a few time-saving tips? 
+Do you want to learn the basics of Excel and a few time-saving tricks? 
 
-This workshop will get you started with Excel by introducing its terminology and offering simple ways to:
+This workshop will get you started with Excel by offering simple ways to:
 - organize spreadsheets
 - format data
 - insert functions
