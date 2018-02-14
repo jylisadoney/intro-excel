@@ -6,7 +6,9 @@ Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blan
 
 # Additional Excel Features
 
-Excel offers many other functions that you can use to work with your data.
+Excel offers many other features that you can use to work with your data.
+
+These include `Templates`, `Conditional Formatting`, `Data Validation`, and `Pivot Tables`.
 
 ## Templates
 
