@@ -8,11 +8,15 @@ Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blan
 
 Learning Excel is kind of like learning a new language.
 
-An entire Excel file is called a `workbook` and every workbook includes `sheets`. When you open a new Excel file, Sheet1 is automatically created at the bottom of the workbook. 
+An entire Excel file is called a `workbook` and every workbook includes `sheets`. 
+
+When you open a new Excel file, Sheet1 is automatically created at the bottom of the workbook. 
 
 `Excel workbooks can have multiple sheets.`
 
-The data in Excel workbooks are organized into `columns` and `rows`. The intersection between a column and a row is a `cell`.
+The data in Excel workbooks are organized into `columns` and `rows`. 
+
+The intersection between a column and a row is a `cell`.
 
 {% include figure.html file="ExcelSample_Terminology.jpg" alt="Excel workbook with terminology labels" caption="Excel Spreadsheet Terminology" %}
 
@@ -20,11 +24,11 @@ The data in Excel workbooks are organized into `columns` and `rows`. The interse
 
 The `formula bar` is where you can see the formulas and functions you've inserted into certain cells.
 
-## Naming Files
+# Naming Files
 
 It is important to save, name, and version an Excel workbook so it is easy to find in the future.
 
-### File names
+## File names
 Consider including:
 * Assignment or project names
 * Your name or initials
@@ -35,24 +39,24 @@ Consider including:
 
 `For example: SOC320_SMM_20180205_v001`
 
-### Characters
+## Characters
 Spaces don't work well in file names, but you can use `underscores (_)` or `dashes (-)` instead. 
 
 Special characters should also be avoided: `~ ! @ # $ % ^ & * ( ) ; < > ? , [ ] { } ' " |`
 
-### Dates
+## Dates
 To make sure your files stay in chronological order, insert them as `YYYYMMDD`.
 
-### Versioning
+## Versioning
 Consider using `leading zeros` (001, 002 ... 010 ... 100) for version numbers so files sort in order.
 
-### Consistency
+## Consistency
 Finally, keep your file naming as consistent as possible within the same assignment or project.
 * SOC320_SMM_20180205_v001
 * SOC320_SMM_20180205_v002
 * SOC320_SMM_20180205_v010
 
-## Rename our sample workbook
+**Practice: Rename our sample workbook**
 * Left click on `File` and `Save As`
 * Browse to find a location to save the workbook
 * To the file name, add:
