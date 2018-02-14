@@ -10,9 +10,7 @@ When working in Excel workbooks, we often need to organize our sheet to make the
 
 ## Resize columns and rows
 If you encounter columns or rows that are too big or too small, you can always resize them.
-
-## Practice: Resize columns
-
+```
 ### Autofit
 * Left click `Column A` to highlight it
 * Navigate to the `Home` tab and the `Cells` section
@@ -23,7 +21,7 @@ If you encounter columns or rows that are too big or too small, you can always r
 ### Drag to resize
 * Hover your cursor between `Column B` and `Column C` until you get the **vertical line with two arrows** cursor
 * Left click and `drag the column boundary` to the width you want
-
+```
 ## Rename a column header
 Sometimes when working with data, we need to rename our column headers.
 
@@ -35,9 +33,7 @@ To do this, simply click on `Cell B1` and type the word **Employees**.
 Right now, our sheet only includes 10 rows. However, if you have a spreadsheet with hundreds of rows or columns, it can be difficult to keep your column headings visible.
 
 What we can do is `Freeze Panes` to keep part of the sheet visible when we scroll.
-
-## Practice: Freeze and unfreeze panes
-
+```
 ### Freeze the top rows
 * Navigate to the `View` tab
 * Left click on `Freeze Panes`
@@ -51,7 +47,7 @@ What we can do is `Freeze Panes` to keep part of the sheet visible when we scrol
 
 ### Unfreeze panes
 To unfreeze panes, left click on `Freeze Panes` again and click `Unfreeze Panes`.
-
+```
 ## Insert, delete, and rename sheets
 Depending on the data you are working with, you may have multiple `sheets` in your `workbook`
 
@@ -61,12 +57,15 @@ Depending on the data you are working with, you may have multiple `sheets` in yo
   * Right click on the sheet name and left click `Delete`
   * **Caution!** This will delete ALL data included in that sheet
 
-## Practice: Rename a sheet
+## Rename a sheet
+Right now, our sheet is named Sheet1. Let's rename it to something more descriptive.
+```
 * Left click on `Sheet1`
 * Right click on `Sheet1`
 * Left click on `Rename`
 * Type `Employee Sales`
   * Left click somewhere in your workbook to save this rename
+```
 
 # More Help
 
