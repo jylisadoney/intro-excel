@@ -40,6 +40,17 @@ Excel will then create a new workbook based on this template.
 
 ## Conditional formatting
 
+Conditional formatting in Excel lets you format, highlight, or display data in your workbook that meets certain criteria.
+
+Built in features let you:
+* Format cells based on their values
+* Format cells that contain certain information
+* Format top or bottom values
+* Format values that are above or below the average
+* Format unique or duplicate values
+
+You can also use a `formula` to choose which cells to format.
+ 
 
 ## Data validation
 
