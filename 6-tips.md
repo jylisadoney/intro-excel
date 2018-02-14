@@ -1,5 +1,5 @@
 ---
-title: Tips and Tricks
+title: Tricks
 nav: true
 ---
 Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
