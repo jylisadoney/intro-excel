@@ -10,6 +10,12 @@ Excel offers lots of other ways to organize your spreadsheets and work with your
 
 Below are a few tips and tricks that will make use a power-user
 
+## Wrap text
+If your data is text-based, you can wrap the text so it appears on multiple lines in a cell.
+* Highlight the cell, column, or row where you want to wrap text
+* Navigate to the `Home` tab and `Alignment` section
+* Left click `Wrap Text`
+
 ## Add today's date
 * Left click on the cell where you want the date to appear
 * Hit `Ctrl ; (control key and semicolon)`
