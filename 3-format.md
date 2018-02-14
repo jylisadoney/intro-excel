@@ -14,8 +14,8 @@ In Excel, dates are easier to organize and sort when they are represented numeri
 Let's fix our `Hire Date` column to make it more readable.
 * Left click on `Column E`
 * Navigate to the `Home` tab and the `Number` section
-* Left click on the `Number Format Icon`
-* Left click on `Date` under Category
+* Left click on the arrow in the bottom right of the `Number` section
+* Under Category, left click on `Date`
 * Scroll down and left click on `3/14/2012`
 * Click `OK`
 
@@ -24,24 +24,25 @@ We can now see that our `Hire Date` column is better organized and our dates are
 ## Format currency
 We can also format our `Sales Q1` and `Sales Q2` columns so that the data is displayed as Currency.
 
-To do this:
-* Left click on `Column C` and drag to highlight `Column D`
+* Left click on `Column C`
+* Drag to highlight `Column D` (both Columns should now be highlighted)
 * Navigate to the `Home` tab and the `Number` section
-* Left click on the `Drop-Down` box
+* Left click on the Drop-Down box
 * Left click on `Currency`
+
+We can now see that our `Sales Q1` and `Sales Q2` columns are formatted as currency.
 
 ## Sort data
 Now let’s say we want to organize our sheet based on when an employee joined the company.
 
-To do this:
 * Highlight all of the data
-  * Option 1: Left click on `Cell A1` and drag
+  * Option 1: Left click on `Cell A1` and drag to highlight all data
   * Option 2: Hold down `Ctrl A` on your keyboard
 * Navigate to the `Data` tab and the `Sort & Filter` section
 * Left click on `Sort`
 * Check the ‘My data has headers’ box
 * In the Sort by drop-down box, left click on `Hire Date`
-  * Set the sort On drop-down box to `Values`
+  * Set the sort on drop-down box to `Values`
   * Set the order drop-down box to `Oldest to Newest`
 * Left click on `OK`
 

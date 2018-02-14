@@ -59,10 +59,10 @@ Finally, keep your file naming as consistent as possible within the same assignm
 * SOC320_SMM_20180205_v010
 
 ## Rename our sample workbook
-* Left click `File` then `Save As`
+* Left click on `File` then `Save As`
 * Browse to find a location to save the workbook
 * Rename the file and add:
   * Your name or initials
   * Today's date
   * A version number
-* Left click `Save`
+* Left click on `Save`

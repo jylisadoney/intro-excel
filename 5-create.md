@@ -16,7 +16,7 @@ First, let's navigate to the `Charts` sheet in our workbook.
 
 Our first step is to:
 * Highlight all of our data
-  * Left click on `Cell A1` and drag to highlight all data OR
+  * Left click on `Cell A1` and drag to highlight all data **OR**
   * Hit `Ctrl A` on your keyboard
 
 We can now work on creating our chart.
@@ -30,18 +30,18 @@ Right away, we see that this chart is a **mess** and the visualization is confus
 
 Since we only want to compare sales from Q1 and Q2, we aren't interested in the Total Sales or the Hire Date.
 
-To remove this data from our chart:
+To remove the Total Sales data from our chart:
 * Left click on the chart
 * Left click on the `Funnel Icon`
-* Under `Series`, uncheck the boxes for `Total Sales` and `Hire Date`
+* Under `Series`, left click on `Total Sales` and `Hire Date` to uncheck the boxes
 * Left click on `Apply`
 
 Our chart is looking much better - but including the state names in our chart makes it difficult to read.
 
-To remove the state names:
+To remove the State Names:
 * Left on the chart
 * Left click on the `Funnel Icon`
-* Left click on `Names`
+* Left click on `Names` to uncheck the box
 * Under `Categories`, select the option for `Column B`
 * Left click on `Apply`
 
@@ -53,6 +53,7 @@ Another important piece of visualizations is adding text that describes the data
 
 To add a chart title:
 * Left click on the chart 
+* Navigate to the `Design` tab
 * Left click on `Chart Title`
 * Type a title that describes this data
   * Maybe something like `Employee Sales by Quarter`
@@ -70,6 +71,7 @@ We now have a text box that we can use to describe this axis.
 
 To edit the text:
 * Left click on the chart
+* Navigate to the `Design` tab
 * Left click on `Horizontal Axis`
 * Type a word or phrase that describes this axis
   * Maybe something like `Employee Names`

@@ -14,7 +14,7 @@ Below are a few tips and tricks that will make use a power-user
 If your data is text-based, you can wrap the text so it appears on multiple lines in a cell.
 * Highlight the cell, column, or row where you want to wrap text
 * Navigate to the `Home` tab and `Alignment` section
-* Left click `Wrap Text`
+* Left click on `Wrap Text`
 
 ## Add today's date
 * Left click on the cell where you want the date to appear
@@ -28,18 +28,18 @@ To do this, navigate to the `Tricks` sheet in our workbook.
 
 Our first step is to insert a new column to the left of `Sales Q1`
 * Left click on `Column C`
-* Right click then and left click on `Insert`
+* Right click then left click on `Insert`
 
 Then, we can navigate to the `Data` tab and `Data Tools` section
 * Left click on `Column B` to highlight it
 * Left click on `Text to Columns`
-* Select `Delimited` in the pop-up window
-* Click `Next`
-* Uncheck the box for `Tab`
-* Check the box for Space
+* Select the `Delimited` opition in the pop-up window
+* Left click `Next`
+* Left click to uncheck the box for `Tab`
+* Left click to check the box for Space
   * We can now see a preview of what our data will look like
-* Click `Next`
-* Click Finish
+* Left click `Next`
+* Left click Finish
 
 Now, since we have two columns with employee names, lets rename `Column B` and `Column C`.
 * Left click `Cell B1` and rename it as `Employee First Name`
