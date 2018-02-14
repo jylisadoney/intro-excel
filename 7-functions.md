@@ -30,3 +30,8 @@ Excel offers many other functions that you can use to work with your data.
 * [=LOWER](https://support.office.com/en-us/article/lower-function-3f21df02-a80c-44b2-afaf-81358f9fdeb4): converts text to lowercase
 * [=PROPER](https://support.office.com/en-us/article/proper-function-52a5a283-e8b2-49be-8506-b2887b889f94): capitalizes the first letter in each word
 * [=UPPER](https://support.office.com/en-us/article/upper-function-c11f29b3-d1a3-4537-8df6-04d0049963d6): converts text to uppercase
+
+# More Help
+Excel includes numerous other functions. To learn more about them, navigate to the `Formulas` tab and the `Function Library` section. 
+
+You can also visit <a href=" https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb?ui=en-US&rs=en-US&ad=US" target="_blank">Microsoft's Excel Functions (by Category) website</a>.
