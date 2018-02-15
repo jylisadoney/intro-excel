@@ -13,7 +13,7 @@ When working in Excel workbooks, we often need to organize our sheet to make the
 ## Resize columns and rows
 If you encounter columns or rows that are too big or too small, you can always resize them.
 
-First let's navigate to `Sheet1`
+First let's navigate to `Sheet1`.
 
 ### Autofit
 * Click on `Column A` to highlight it
