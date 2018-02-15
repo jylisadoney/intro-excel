@@ -14,6 +14,8 @@ After we've organized our spreadsheet, we can work on formatting our data.
 In Excel, dates are easier to organize and sort when they are represented numerically.
 
 Let's fix our `Hire Date` column to make it more readable.
+
+* Navigate to the `Employee Sales` sheet (or Sheet1)
 * Click on `Column E`
 * Navigate to the `Home` tab and the `Number` section
 * Click on the arrow in the bottom right of the `Number` section
@@ -21,32 +23,32 @@ Let's fix our `Hire Date` column to make it more readable.
 * Scroll down and click on `3/14/2012`
 * Click `OK`
 
-We can now see that our `Hire Date` column is better organized and our dates are represented by numbers.
+The dates in the `Hire Date` columns are now represented by numbers.
 
 ## Format currency
-We can also format our `Sales Q1` and `Sales Q2` columns so that the data is displayed as Currency.
+We can also format our `Sales Q1` and `Sales Q2` columns so that the data are displayed as Currency.
 * Click on `Column C`
 * Drag to highlight `Column D` (both Columns should now be highlighted)
 * Navigate to the `Home` tab and the `Number` section
 * Click on the Drop-Down box
 * Click on `Currency`
 
-We can now see that our `Sales Q1` and `Sales Q2` columns are formatted as currency.
+The data in our `Sales Q1` and `Sales Q2` columns are now formatted as currency.
 
 ## Sort data
-Now let’s say we want to organize our sheet based on when an employee joined the company.
+Now let’s say we want to organize our sheet based on `when an employee joined the company`.
 * Highlight all of the data
   * Option 1: Click on `Cell A1` and drag to highlight all data **OR**
-  * Option 2: Hit down `Ctrl A` on your keyboard
+  * Option 2: Hit `Ctrl A` on your keyboard
 * Navigate to the `Data` tab and the `Sort & Filter` section
 * Slick on `Sort`
-* Check the ‘My data has headers’ box
-* In the Sort by drop-down box, click on `Hire Date`
-  * Set the sort on drop-down box to `Values`
-  * Set the order drop-down box to `Oldest to Newest`
+* Check the `My data has headers` box
+* In the `Sort by` drop-down box, click on `Hire Date`
+  * Set the `Sort on` drop-down box to `Values`
+  * Set the `Order` drop-down box to `Oldest to Newest`
 * Click on `OK`
 
-Now the data in our sheet is sorted based on Hire Date.
+Now the data in our sheet is sorted based on Hire Date. We could also sort `Hire Date` as `Newest to Oldest`.
 
 # More Help
 
