@@ -4,6 +4,8 @@ nav: true
 ---
 Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
 
+**Throughout this workshop `Click` refers to a `Left Click` with your mouse**
+
 # Part One: Organize Spreadsheets
 
 When working in Excel workbooks, we often need to organize our sheet to make the data readable and visually appealing.
@@ -12,22 +14,22 @@ When working in Excel workbooks, we often need to organize our sheet to make the
 If you encounter columns or rows that are too big or too small, you can always resize them.
 
 ### Autofit
-* Left click on `Column A` to highlight it
+* Click on `Column A` to highlight it
 * Navigate to the `Home` tab and the `Cells` section
-* Left click on `Format`
-* Left click on `Autofit Column Width`
+* Click on `Format`
+* Click on `Autofit Column Width`
   * You can also enter in a width or height value using `Row Height` or `Column Width`
 
 ### Drag to resize
 * Hover your cursor between `Column B` and `Column C`
   * You should see a cursor that is a **vertical line with two arrows**
-* Left click and `drag the column boundary` to the width you want
+* Click and drag the column boundary to the width you want
 
 ## Rename a column header
 Sometimes when working with data, we need to rename our column headers.
 
 Let's say we want to rename `Column B` to `Employees`.
-* Left click on `Cell B1`  
+* Slick on `Cell B1`  
 * Type the word `Employees`
 
 ## Freeze panes
@@ -37,38 +39,41 @@ What we can do is `freeze panes` to keep part of the sheet visible when we scrol
 
 ### Freeze the top rows
 * Navigate to the `View` tab
-* Left click the `Freeze Panes` icon
-* Left click on `Freeze Top Row`
+* Click the `Freeze Panes` icon
+* Click on `Freeze Top Row`
+
+Now our top row is frozen when we scroll `vertically`.
 
 ### Freeze a column and row at the same time
-* Left click on `Cell C2`
+* Click on `Cell C2`
 * Navigate to the `View` tab
-* Left click the `Freeze Panes` icon
-* Left click on `Freeze Panes` again
+* Click the `Freeze Panes` icon
+* Click on `Freeze Panes`
+
+Now our top row and Columns A and B are frozen when we scroll `vertically` or `horizontally`.
 
 ### Unfreeze panes
-* Left click the `Freeze Panes` icon
+* Click the `Freeze Panes` icon
 * Click on `Unfreeze Panes`
 
 ## Insert, delete, and rename sheets
 Depending on the data you are working with, you may have or need multiple `sheets` in your `workbook`.
 
 ### Insert a sheet
- * Left click the `plus (+) button` at the bottom of the workbook
+ * Click the `plus (+) button` at the bottom of the workbook
  
 ### Delete a sheet
 * Right click on the sheet name
-* Left click on `Delete`
+* Click on `Delete`
   * **Caution!** This will delete ALL data included in that sheet
 
 ## Rename a sheet
 Right now, our sheet is named Sheet1. Let's rename it to something more descriptive.
-
-* Left click on `Sheet1`
+* Click on `Sheet1`
 * Right click on `Sheet1`
-* Left click on `Rename`
+* Click on `Rename`
 * Type `Employee Sales`
-  * Left click somewhere in your workbook to save this rename
+  * Click somewhere in your workbook to save this rename
 
 # More Help
 
