@@ -13,6 +13,8 @@ When working in Excel workbooks, we often need to organize our sheet to make the
 ## Resize columns and rows
 If you encounter columns or rows that are too big or too small, you can always resize them.
 
+First let's navigate to `Sheet1`
+
 ### Autofit
 * Click on `Column A` to highlight it
 * Navigate to the `Home` tab and the `Cells` section
@@ -57,7 +59,7 @@ Now our top row and Columns A and B are frozen when we scroll `vertically` or `h
 * Click on `Unfreeze Panes`
 
 ## Insert, delete, and rename sheets
-Depending on the data you are working with, you may have or need multiple `sheets` in your `workbook`.
+Depending on your data, you may have or need multiple `sheets` in your `workbook`.
 
 ### Insert a sheet
  * Click the `plus (+) button` at the bottom of the workbook
