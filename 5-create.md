@@ -10,13 +10,11 @@ Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blan
 
 Not only can Excel help you organize data and information, it can also help you create charts and graphs to visually share your data.
 
-Today, we are going to focus on creating a `Bar Chart` that compares each employee's sales in Q1 and Q2.
+Today, we will create a `Bar Chart` that compares each employee's sales in Q1 and Q2.
 
 ## Create a bar chart
 
 First, let's navigate to the `Charts` sheet in our workbook.
-
-Our first step is to:
 * Highlight all of our data
   * Option 1: Click on `Cell A1` and drag to highlight all data **OR**
   * Option 2: Hit `Ctrl A` on your keyboard
@@ -30,9 +28,9 @@ Right away, we see that this chart is a **mess** and the visualization is confus
 
 ## Edit the data in a bar chart
 
-Since we only want to compare sales from Q1 and Q2, we aren't interested in the Total Sales or the Hire Date.
+Since we only want to compare `sales from Q1 and Q2`, we aren't interested in the Total Sales or the Hire Date.
 
-To remove the Total Sales data from our chart:
+To remove the `Total Sales data` from our chart:
 * Click on the chart
 * Click on the `Funnel Icon`
 * Under `Series`, click on `Total Sales` and `Hire Date` to uncheck the boxes
@@ -40,7 +38,7 @@ To remove the Total Sales data from our chart:
 
 Our chart is looking much better - but including the state names in our chart makes it difficult to read.
 
-To remove the State Names:
+To remove the `State Names`:
 * Click on the chart
 * Click on the `Funnel Icon`
 * Click on `Names` to uncheck the box
@@ -49,38 +47,34 @@ To remove the State Names:
 
 After these two small changes, our chart looks so much better!
 
-Another important piece of visualizations is adding text that describes the data.
+## Describe the data
+Another important part of creating visualizations is to add text that describes the data.
 
-## Add a chart title
-
-To add a chart title:
+### Add a chart title
 * Click on the chart 
 * Navigate to the `Design` tab
 * Click on `Chart Title`
-* Type a title that describes this data
+* Type a title that describes the data
   * Maybe something like `Employee Sales by Quarter`
 
-## Add titles to our axes
-
-To add a title to our horizontal axis (x-axis):
+### Add a title to the horizontal axis (x-axis)
 * Click on the chart
 * Navigate to the `Design` tab
 * Click on `Add Chart Element`
 * Hover over `Axis Titles`
-* Click on `Horizontal Axis`
+* Click on `Primary Horizontal`
 
 We now have a text box that we can use to describe this axis.
 
 To edit the text:
 * Click on the chart
-* Navigate to the `Design` tab
-* Click on `Horizontal Axis`
-* Type a word or phrase that describes this axis
+* Click on the `blank text box`
+* * Type a word or phrase that describes this axis
   * Maybe something like `Employee Names`
 
-## Position the chart legend
+You can use the same steps to add a title to the `Primary Vertical axis`.
 
-To position our chart legend from the default location:
+## Position the chart legend
 * Click on the chart
 * Navigate to the `Design` tab
 * Click on `Add Chart Element`
