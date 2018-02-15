@@ -6,17 +6,13 @@ Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blan
 
 **Throughout this workshop `Click` refers to a `Left Click` with your mouse**
 
-# Key Terminology and Naming Files
+# Introduction
 
-## Terminology
+## Key terminology
 
-Learning Excel is kind of like learning a new language.
+An entire Excel file is called a `workbook` and every workbook includes one or more `sheets`. 
 
-An entire Excel file is called a `workbook` and every workbook includes `sheets`. 
-
-When you open a new Excel file, Sheet1 is automatically created at the bottom of the workbook. 
-
-`Excel workbooks can have multiple sheets.`
+When you open a new Excel file, `Sheet1` is automatically created at the bottom of the workbook. 
 
 The data in Excel workbooks are organized into `columns` and `rows`. 
 
