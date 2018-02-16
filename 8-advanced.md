@@ -152,9 +152,6 @@ Now, when you want to enter text into that cell(s), you can select from the **al
 # PivotTables
 PivotTables offer you multiple ways to analyze and present your data and give you great control and flexibility.
 
-## Insert a PivotTable
-* 
-
 # More Help
 ## Conditional formatting
 Excel includes numerous ways to use `conditional formatting`. To learn more about them, navigate to the `Home` tab and the `Styles` section. 
@@ -162,6 +159,7 @@ Excel includes numerous ways to use `conditional formatting`. To learn more abou
 You can also visit <a href="https://support.office.com/en-us/article/Enter-and-format-data-fef13169-0a84-4b92-a5ab-d856b0d7c1f7#ID0EAABAAA=Conditional_formatting" target="_blank">Microsoft's Enter and Format Data website</a>.
 
 ## Data validation
+Excel includes numerous ways to add `data validation`. To learn more about them, navigate to the `Data` tab and the `Data Tools` section. 
 Visit <a href="https://support.office.com/en-us/article/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249" target="_blank">Microsoft's Apply Data Validation to Cells website</a>.
 
 ## PivotTables
