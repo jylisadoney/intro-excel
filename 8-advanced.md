@@ -149,9 +149,6 @@ Now, when you want to enter text into that cell(s), you can select from the **al
 * Click `Clear All`
 * Click `OK`
 
-# PivotTables
-PivotTables offer you multiple ways to analyze and present your data and give you great control and flexibility.
-
 # More Help
 ## Conditional formatting
 Excel includes numerous ways to use `conditional formatting`. To learn more about them, navigate to the `Home` tab and the `Styles` section. 
