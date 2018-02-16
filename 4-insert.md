@@ -20,7 +20,7 @@ The `SUM` function (a Math & Trig function) adds values together.
 
 Let’s say we want to see the `total amount of sales` made by employees in Q1 and Q2.
 
-To do this, we first have to insert a new column before `Hire Date (Column E)`.
+To do this, we first have to insert a new column to the left of `Hire Date (Column E)`.
 * Click on `Column E` to highlight it
 * Right click then click on `Insert` to add a column
 * Type `Total Sales` in `Cell E1` and resize the column if necessary
