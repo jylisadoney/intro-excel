@@ -160,8 +160,12 @@ You can also visit <a href="https://support.office.com/en-us/article/Enter-and-f
 
 ## Data validation
 Excel includes numerous ways to add `data validation`. To learn more about them, navigate to the `Data` tab and the `Data Tools` section. 
-Visit <a href="https://support.office.com/en-us/article/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249" target="_blank">Microsoft's Apply Data Validation to Cells website</a>.
+
+You can also visit <a href="https://support.office.com/en-us/article/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249" target="_blank">Microsoft's Apply Data Validation to Cells website</a>.
 
 ## PivotTables
-PivotTables offer you multiple ways to analyze and present your data and give you great control and flexibility.
-Visit <a href="https://support.office.com/en-us/article/Import-and-analyze-data-ccd3c4a6-272f-4c97-afbb-d3f27407fcde#ID0EAABAAA=PivotTables" target="_blank">Microsoft's PivotTables website</a>.
+PivotTables offer you multiple ways to analyze and present your data and give you greater control and flexibility.
+
+To learn more about them, navigate to the `Insert` tab and the `Charts` section.
+
+You can also visit <a href="https://support.office.com/en-us/article/Import-and-analyze-data-ccd3c4a6-272f-4c97-afbb-d3f27407fcde#ID0EAABAAA=PivotTables" target="_blank">Microsoft's PivotTables website</a>.
