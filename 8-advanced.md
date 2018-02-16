@@ -113,7 +113,7 @@ These first three steps work for any data validation.
     * For example, Minimum: 1 and Maximum: 25
 * Click `OK`
 
-Now, if you try to enter a number outside your specified range, you will see an error message.
+Now, if you try to enter a number **outside the specified range**, you will see an error message.
 
 You can even specify the `Input Message` or `Error Alert` if you choose.
 
@@ -140,7 +140,7 @@ Now, if you try to enter a date that occurred **before** 01/01/1999 or **after**
 * Click to check the `In-cell dropdown` box
 * Click `OK`
 
-Now, when you want to enter text into that cell(s), you will see the allowed options.
+Now, when you want to enter text into that cell(s), you can select from the **allowed options**.
 
 ## Remove data validation 	
 * Click to highlight the cell(s) where you want to remove validation
