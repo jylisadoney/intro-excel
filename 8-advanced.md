@@ -12,6 +12,8 @@ Excel offers many other features that you can use to work with your data.
 
 These include `Templates`, `Conditional Formatting`, `Data Validation`, and `Pivot Tables`.
 
+[Data Validation](#data-validation)
+
 # Templates
 
 If you tend to use the same layout in Excel workbooks, you can save it as a `template` and use it again in the future.
