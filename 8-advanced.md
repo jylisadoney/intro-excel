@@ -80,14 +80,14 @@ We can now see that Excel has highlighted the cells that include `Total Sales` t
 
 ## Remove conditional formatting
 
-Specific cells
+### Specific cells
 * Navigate to the `Home` tab and the `Styles` section
 * Left click and drag to highlight the `cells, columns, or rows` where you want to remove conditional formatting
 * Left click on `Conditional Formatting`
 * Left click on `Clear Rules` 
 * Left click on `Clear Rules from Selected Cells`
 
-Entire sheet
+### Entire sheet
 * Navigate to the `Home` tab and the `Styles` section
 * Left click on `Conditional Formatting`
 * Left click on `Clear Rules` 
