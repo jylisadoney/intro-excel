@@ -10,7 +10,7 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 Excel offers many other features that you can use to work with your data.
 
-These include [Templates](#templates), [Conditional Formatting](#conditional-formatting), [Data Validation](#data-validation), and [Pivot Tables](#pivot-tables). [More Help](#more-help) on each of these features is also available.
+These include [Templates](#templates), [Conditional Formatting](#conditional-formatting), and [Data Validation](#data-validation). [More Help](#more-help) on each of these features is also available.
 
 # Templates
 
@@ -149,7 +149,11 @@ Now, when you want to enter text into that cell(s), you can select from the **al
 * Click `Clear All`
 * Click `OK`
 
-# Pivot tables
+# PivotTables
+PivotTables offer you multiple ways to analyze and present your data and give you great control and flexibility.
+
+## Insert a PivotTable
+* 
 
 # More Help
 ## Conditional formatting
@@ -158,4 +162,8 @@ Excel includes numerous ways to use `conditional formatting`. To learn more abou
 You can also visit <a href="https://support.office.com/en-us/article/Enter-and-format-data-fef13169-0a84-4b92-a5ab-d856b0d7c1f7#ID0EAABAAA=Conditional_formatting" target="_blank">Microsoft's Enter and Format Data website</a>.
 
 ## Data validation
-Visit <a href="https://support.office.com/en-us/article/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249" target="_blank">Microsoft's Apply Data Validation to Cells</a>.
+Visit <a href="https://support.office.com/en-us/article/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249" target="_blank">Microsoft's Apply Data Validation to Cells website</a>.
+
+## PivotTables
+PivotTables offer you multiple ways to analyze and present your data and give you great control and flexibility.
+Visit <a href="https://support.office.com/en-us/article/Import-and-analyze-data-ccd3c4a6-272f-4c97-afbb-d3f27407fcde#ID0EAABAAA=PivotTables" target="_blank">Microsoft's PivotTables website</a>.
