@@ -2,7 +2,9 @@
 title: Advanced
 nav: true
 ---
-Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
+Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
+
+**Throughout this workshop `Click` refers to a `Left Click` with your mouse**
 
 # Advanced Excel Features
 
@@ -15,7 +17,7 @@ These include `Templates`, `Conditional Formatting`, `Data Validation`, and `Piv
 If you tend to use the same layout in Excel workbooks, you can save it as a `template` and use it again in the future.
 
 ## Set the default personal templates location
-* Left click on `File` then left click on `Options`
+* Click on `File` then Click on `Options`
 * Left click on the `Save` tab
 * Navigate to the `Save workbooks` section
 * Type this file path: `C:\Users\[UserName]\Documents\Custom Office Templates`
