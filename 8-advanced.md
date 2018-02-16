@@ -10,9 +10,7 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 Excel offers many other features that you can use to work with your data.
 
-These include `Templates`, `Conditional Formatting`, `Data Validation`, and `Pivot Tables`.
-
-[Data Validation](#data-validation)
+These include [Templates](#templates), [Conditional Formatting](#conditional-formatting), [Data Validation](#data-validation), and [Pivot Tables](#pivot-tables). [More Help](#more-help) on each of these features is also available.
 
 # Templates
 
