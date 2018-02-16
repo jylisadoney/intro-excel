@@ -47,17 +47,17 @@ To remove the `State Names`:
 
 After these two small changes, our chart looks so much better!
 
-## Describe the data
+# Describe the data
 Another important part of creating visualizations is to add text that describes the data.
 
-### Add a chart title
+## Add a chart title
 * Click on the chart 
 * Navigate to the `Design` tab
 * Click on `Chart Title`
 * Type a title that describes the data
   * Maybe something like `Employee Sales by Quarter`
 
-### Add a title to the horizontal axis (x-axis)
+## Add a title to the horizontal axis (x-axis)
 * Click on the chart
 * Navigate to the `Design` tab
 * Click on `Add Chart Element`

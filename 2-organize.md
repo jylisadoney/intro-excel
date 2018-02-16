@@ -10,43 +10,43 @@ Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blan
 
 When working in Excel workbooks, we often need to organize our sheet to make the data readable and visually appealing.
 
-## Resize columns and rows
+# Resize columns and rows
 If you encounter columns or rows that are too big or too small, you can always resize them.
 
 First let's navigate to `Sheet1`.
 
-### Autofit
+## Autofit
 * Click on `Column A` to highlight it
 * Navigate to the `Home` tab and the `Cells` section
 * Click on `Format`
 * Click on `Autofit Column Width`
   * You can also enter in a width or height value using `Row Height` or `Column Width`
 
-### Drag to resize
+## Drag to resize
 * Hover your cursor between `Column B` and `Column C`
   * You should see a cursor that is a **vertical line with two arrows**
 * Click and drag the column boundary to the width you want
 
-## Rename a column header
+# Rename a column header
 Sometimes when working with data, we need to rename our column headers.
 
 Let's say we want to rename `Column B` to `Employees`.
 * Slick on `Cell B1`  
 * Type the word `Employees`
 
-## Freeze panes
+# Freeze panes
 Right now, our sheet only includes 10 rows. However, if you have a spreadsheet with hundreds of rows or columns it can be difficult to keep your column headings visible.
 
 What we can do is `freeze panes` to keep part of the sheet visible when we scroll.
 
-### Freeze the top rows
+## Freeze the top rows
 * Navigate to the `View` tab
 * Click the `Freeze Panes` icon
 * Click on `Freeze Top Row`
 
 Now our top row is frozen when we scroll `vertically`.
 
-### Freeze a column and row at the same time
+## Freeze a column and row at the same time
 * Click on `Cell C2`
 * Navigate to the `View` tab
 * Click the `Freeze Panes` icon
@@ -54,17 +54,17 @@ Now our top row is frozen when we scroll `vertically`.
 
 Now our top row and Columns A and B are frozen when we scroll `vertically` or `horizontally`.
 
-### Unfreeze panes
+## Unfreeze panes
 * Click the `Freeze Panes` icon
 * Click on `Unfreeze Panes`
 
-## Insert, delete, and rename sheets
+# Insert, delete, and rename sheets
 Depending on your data, you may have or need multiple `sheets` in your `workbook`.
 
-### Insert a sheet
+## Insert a sheet
  * Click the `plus (+) button` at the bottom of the workbook
  
-### Delete a sheet
+## Delete a sheet
 * Right click on the sheet name
 * Click on `Delete`
   * **Caution!** This will delete ALL data included in that sheet

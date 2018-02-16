@@ -10,7 +10,7 @@ Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blan
 
 After we've organized our spreadsheet, we can work on formatting our data.
 
-## Format dates
+# Format dates
 In Excel, dates are easier to organize and sort when they are represented numerically.
 
 Let's fix our `Hire Date` column to make it more readable.
@@ -25,7 +25,7 @@ Let's fix our `Hire Date` column to make it more readable.
 
 The dates in the `Hire Date` columns are now represented by numbers.
 
-## Format currency
+# Format currency
 We can also format our `Sales Q1` and `Sales Q2` columns so that the data are displayed as Currency.
 * Click on `Column C`
 * Drag to highlight `Column D` (both Columns should now be highlighted)
@@ -35,7 +35,7 @@ We can also format our `Sales Q1` and `Sales Q2` columns so that the data are di
 
 The data in our `Sales Q1` and `Sales Q2` columns are now formatted as currency.
 
-## Sort data
+# Sort data
 Now let’s say we want to organize our sheet based on `when an employee joined the company`.
 * Highlight all of the data
   * Option 1: Click on `Cell A1` and drag to highlight all data **OR**
