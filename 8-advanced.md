@@ -99,13 +99,15 @@ We can now see that Excel has highlighted the `total sales cells` that are `equa
 
 Data validation in Excel is used to restrict what can be entered into a cell.
 
+These first three steps are the same for any data validation.
 * Click to highlight the cell(s) where you want to add validation
 * Navigate to the `Data` tab and the `Data Tools` section
 * Hover and click the `Data Validation` icon
 
-These first three steps work for any data validation.
-
 ## Restrict data entry to whole numbers within limits
+* Click to highlight the cell(s) where you want to add validation
+* Navigate to the `Data` tab and the `Data Tools` section
+* Hover and click the `Data Validation` icon
 * In the `Settings` tab:
   * Set the `Allow` drop-down box to `Whole number`
   * Set the `Data` drop-down box to `between`
@@ -118,6 +120,9 @@ Now, if you try to enter a number **outside the specified range**, you will see 
 You can even specify the `Input Message` or `Error Alert` if you choose.
 
 ## Restrict data entry to a range of dates
+* Click to highlight the cell(s) where you want to add validation
+* Navigate to the `Data` tab and the `Data Tools` section
+* Hover and click the `Data Validation` icon
 * In the `Settings` tab:
   * Set the `Allow` drop-down box to `Date`
   * Set the `Data` drop-down box to `between`
@@ -130,6 +135,9 @@ Now, if you try to enter a date that occurred **before** 01/01/1999 or **after**
 `=TODAY()` will automatically update based on the actual date.
 
 ## Restrict data entry to a drop-down list of data values
+* Click to highlight the cell(s) where you want to add validation
+* Navigate to the `Data` tab and the `Data Tools` section
+* Hover and click the `Data Validation` icon
 * Click to highlight the cell or cells you want to validate
 * Navigate to the `Data` tab and the `Data Tools` section
 * Hover and click the `Data Validation` icon

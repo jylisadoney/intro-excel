@@ -20,7 +20,7 @@ Let's fix our `Hire Date` column to make it more readable.
 * Navigate to the `Home` tab and the `Number` section
 * Click on the arrow in the bottom right of the `Number` section
 * Under Category, click on `Date`
-* Scroll down and click on `3/14/2012`
+* Scroll down and click on `03/14/2012`
 * Click `OK`
 
 The dates in the `Hire Date` columns are now represented by numbers.
