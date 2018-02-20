@@ -49,4 +49,4 @@ If your data is text-based, you can `wrap the text` so it appears on multiple li
 
 ## Add today's date
 * Click on the cell where you want the date to appear
-* Hit `Ctrl ;` (control key and semicolon)
+* Hit `Ctrl ;` on your keyboard (same for Mac users)

@@ -31,7 +31,7 @@ First let's navigate to `Sheet1`.
 Sometimes when working with data, we need to rename our column headers.
 
 Let's say we want to rename `Column B` to `Employees`.
-* Slick on `Cell B1`  
+* Click on `Cell B1`  
 * Type the word `Employees`
 
 # Freeze panes

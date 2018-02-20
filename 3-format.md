@@ -39,7 +39,7 @@ The data in our `Sales Q1` and `Sales Q2` columns are now formatted as currency.
 Now let’s say we want to organize our sheet based on `when an employee joined the company`.
 * Highlight all of the data
   * Option 1: Click on `Cell A1` and drag to highlight all data **OR**
-  * Option 2: Hit `Ctrl A` on your keyboard
+  * Option 2: Hit `Ctrl A` on your keyboard (`Command A` for Mac users)
 * Navigate to the `Data` tab and the `Sort & Filter` section
 * Slick on `Sort`
 * Check the `My data has headers` box
