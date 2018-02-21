@@ -26,6 +26,8 @@ To use templates, we first have to `set the default personal templates location`
   * Replace [User Name] with your user name
 * Click `OK`
 
+Unless you want to change the `default personal templates location`, you will only need to set this once.
+
 ## Save a workbook as a template
 * Open Excel
 * Open the workbook you want to save as a template
