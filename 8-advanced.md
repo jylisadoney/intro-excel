@@ -159,7 +159,7 @@ Now, when you want to enter text, you can only select from the **allowed options
 
 # More Help
 ## Templates
-To learn more about `templates`, visit ,a href="https://support.office.com/en-us/article/save-a-workbook-as-a-template-58c6625a-2c0b-4446-9689-ad8baec39e1e" target="_blank">Microsoft's Save a Workbook as a Template website</a>.
+To learn more about `templates`, visit ,<a href="https://support.office.com/en-us/article/save-a-workbook-as-a-template-58c6625a-2c0b-4446-9689-ad8baec39e1e" target="_blank">Microsoft's Save a Workbook as a Template website</a>.
 
 ## Conditional formatting
 To learn more about `conditional formatting`, navigate to the `Home` tab and the `Styles` section. 
