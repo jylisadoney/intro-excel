@@ -172,6 +172,6 @@ To learn more about `data validation`, navigate to the `Data` tab and the `Data 
 You can also visit <a href="https://support.office.com/en-us/article/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249" target="_blank">Microsoft's Apply Data Validation to Cells website</a>.
 
 ## PivotTables
-PivotTables offer greater control and flexibility in presenting and analyzing data. To learn more about `PivotTables`, navigate to the `Insert` tab and the `Charts` section.
+PivotTables offer greater control and flexibility when presenting and analyzing data. To learn more about `PivotTables`, navigate to the `Insert` tab and the `Charts` section.
 
 You can also visit <a href="https://support.office.com/en-us/article/Import-and-analyze-data-ccd3c4a6-272f-4c97-afbb-d3f27407fcde#ID0EAABAAA=PivotTables" target="_blank">Microsoft's PivotTables website</a>.
