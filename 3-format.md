@@ -53,11 +53,11 @@ Now the data in our sheet are sorted based on Hire Date. We could also sort `Hir
 # More Help
 
 ## Format data
-To learn more about how to `format data`, navigate to the `Home` tab and the `Numbers` section. 
+To learn more about `formatting data`, navigate to the `Home` tab and the `Numbers` section. 
 
 You can also visit <a href="https://support.office.com/en-us/article/enter-and-format-data-fef13169-0a84-4b92-a5ab-d856b0d7c1f7?ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Format_data" target="_blank">Microsoft's Enter and Format Data website</a>.
 
 ## Sort data
-To learn more about other ways to `sort data`, navigate to the `Data` tab and the `Sort & Filter` section.
+To learn more about `sorting data`, navigate to the `Data` tab and the `Sort & Filter` section.
 
 You can also visit <a href=" https://support.office.com/en-us/article/import-and-analyze-data-ccd3c4a6-272f-4c97-afbb-d3f27407fcde?ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Sort_and_filter" target="_blank">Microsoft's Import and Analyze Data website</a>.

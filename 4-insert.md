@@ -77,6 +77,6 @@ Since `Column B` is now duplicated, we can delete it.
 * Right click then click on `Delete`
 
 # More Help
-To learn more about other Excel `functions`, navigate to the `Formulas` tab and the `Function Library` section. 
+To learn more about `functions`, navigate to the `Formulas` tab and the `Function Library` section. 
 
 You can also visit <a href=" https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb?ui=en-US&rs=en-US&ad=US" target="_blank">Microsoft's Excel Functions (by Category) website</a>.

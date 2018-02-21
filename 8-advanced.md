@@ -10,11 +10,13 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 Excel offers many other features that you can use to work with your data.
 
-These include [Templates](#templates), [Conditional Formatting](#conditional-formatting), and [Data Validation](#data-validation). [More Help](#more-help) on each of these features, including [PivotTables](#pivottables) is also available.
+These include [Templates](#templates), [Conditional Formatting](#conditional-formatting), and [Data Validation](#data-validation). Links to [more help](#more-help) on each of these features, including [PivotTables](#pivottables) is available at the bottom of the page.
 
 # Templates
 
-If you tend to use the same layout in Excel workbooks, you can save it as a `template` and use it again in the future.
+If you often use the same workbook layout, you can save it as a `template` and use it again in the future.
+
+To use templates, we first have to `set the default personal templates location`.
 
 ## Set the default personal templates location
 * Click on `File` then click on `Options`
@@ -23,8 +25,6 @@ If you tend to use the same layout in Excel workbooks, you can save it as a `tem
 * Type this file path: `C:\Users\[UserName]\Documents\Custom Office Templates`
   * Replace [User Name] with your user name
 * Click `OK`
-
-Every template you save to the `My Templates` folder will now appear when you create a new Excel workbook
 
 ## Save a workbook as a template
 * Open Excel
@@ -45,9 +45,7 @@ Excel will then create a new workbook based on this template. Be sure to `Save` 
 
 # Conditional formatting
 
-`Conditional formatting` in Excel lets you format, highlight, or display data that meet certain criteria.
-
-You can:
+`Conditional formatting` in Excel lets you:
 * Format cells based on their values
 * Format cells that contain certain information
 * Format top or bottom values
@@ -158,19 +156,20 @@ Now, when you want to enter text, you can only select from the **allowed options
 * Click `OK`
 
 # More Help
+## Templates
+To learn more about `templates`, visit ,a href="https://support.office.com/en-us/article/save-a-workbook-as-a-template-58c6625a-2c0b-4446-9689-ad8baec39e1e" target="_blank">Microsoft's Save a Workbook as a Template website</a>.
+
 ## Conditional formatting
-To learn more about other types of `conditional formatting`, navigate to the `Home` tab and the `Styles` section. 
+To learn more about `conditional formatting`, navigate to the `Home` tab and the `Styles` section. 
 
 You can also visit <a href="https://support.office.com/en-us/article/Enter-and-format-data-fef13169-0a84-4b92-a5ab-d856b0d7c1f7#ID0EAABAAA=Conditional_formatting" target="_blank">Microsoft's Enter and Format Data website</a>.
 
 ## Data validation
-To learn more about other types of `data validation`, navigate to the `Data` tab and the `Data Tools` section. 
+To learn more about `data validation`, navigate to the `Data` tab and the `Data Tools` section. 
 
 You can also visit <a href="https://support.office.com/en-us/article/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249" target="_blank">Microsoft's Apply Data Validation to Cells website</a>.
 
 ## PivotTables
-PivotTables offer you multiple ways to analyze and present your data and give you greater control and flexibility.
-
-To learn more about `PivotTables`, navigate to the `Insert` tab and the `Charts` section.
+PivotTables offer greater control and flexibility in presenting and analyzing data. To learn more about `PivotTables`, navigate to the `Insert` tab and the `Charts` section.
 
 You can also visit <a href="https://support.office.com/en-us/article/Import-and-analyze-data-ccd3c4a6-272f-4c97-afbb-d3f27407fcde#ID0EAABAAA=PivotTables" target="_blank">Microsoft's PivotTables website</a>.

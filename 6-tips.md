@@ -68,7 +68,7 @@ If your data is text-based, you can `wrap the text` so it appears on multiple li
 
 ## Add a date or time that updates (dynamic)
 * Click on the cell where you today's date and current time to appear
-* Type `=NOW()`
+* Type: `=NOW()`
 * Hit `Enter` on your keyboard
 
-This version of the current date and time is `dynamic` and will update when the workbook/sheet is opened
+Now the `current date and time` will update when the workbook/sheet is opened.
