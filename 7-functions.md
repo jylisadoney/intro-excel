@@ -13,16 +13,16 @@ Excel offers many other functions that you can use to work with your data.
 ## Math & Trig
 * Difference (no function exists)
   * Click on the cell where you want to calculate the difference 
-  * Type: =`Cell1`-`Cell2`B1-B2
+  * Type: =CellA-CellB
 * Divide (no function exists)
-  * Click on the cell where you want to calculate the difference 
-  * Type: =`Cell1`/`Cell2`
+  * Click on the cell where you want to calculate the quotient 
+  * Type: =CellA/CellB
 * <a href="https://support.office.com/en-us/article/product-function-8e6b5b24-90ee-4650-aeec-80982a0512ce" target="_blank">PRODUCT</a>: multiply cells
 * <a href="https://support.office.com/en-us/article/sum-function-043e1c7d-7726-4e80-8f32-07b23e057f89" target="_blank">SUM</a>: add cells
 
 ## Statistical
 * <a href="https://support.office.com/en-us/article/average-function-047bac88-d466-426c-a32b-8f33eb960cf6" target="_blank">AVERAGE</a>: identify the average/mean for a range of cells
-* <a href="https://support.office.com/en-us/article/countif-function-e0de10c6-f885-4e71-abb4-1f464816df34" target="_blank">COUNTIF</a>: counts the number of cells in a range that meet a specific criterion 
+* <a href="https://support.office.com/en-us/article/countif-function-e0de10c6-f885-4e71-abb4-1f464816df34" target="_blank">COUNTIF</a>: counts the number of cells in a range that meet specific criteria 
 * <a href="https://support.office.com/en-us/article/max-function-e0012414-9ac8-4b34-9a47-73e662c08098" target="_blank">MAX</a>: identify the largest number contained in a range of cells
 * <a href="https://support.office.com/en-us/article/median-function-d0916313-4753-414c-8537-ce85bdd967d2" target="_blank">MEDIAN</a>: identify the median for a range of cells
 * <a href="https://support.office.com/en-us/article/min-function-61635d12-920f-4ce2-a70f-96f202dcc152" target="_blank">MIN</a>: identify the smallest number contained in a range of cells
