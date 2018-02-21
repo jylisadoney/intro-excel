@@ -8,7 +8,7 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 # Tips and Tricks
 
-Excel offers lots of other ways to organize your spreadsheets and work with your data.
+Excel offers many other ways to organize your sheets and work with your data.
 
 ## Split text into multiple columns
 
@@ -31,6 +31,8 @@ Then, navigate to the `Data` tab and `Data Tools` section
 * Click `Next`
 * Click `Finish`
 
+If you see a `There's already data here. Do you want to replace it?` pop-up, you will need to insert additional blank columns to ensure that the `split text` does not replace other data.
+
 Now, since we have two columns with employee names, let's rename `Column B` and `Column C`.
 * Click `Cell B1` and rename it to `Employee First Name`
 * Click `Cell C1` and rename it to `Employee Last Name`
@@ -47,6 +49,26 @@ If your data is text-based, you can `wrap the text` so it appears on multiple li
 * Navigate to the `Home` tab and `Alignment` section
 * Click on `Wrap Text`
 
-## Add today's date
+## Add today's date (static)
 * Click on the cell where you want the date to appear
 * Hit `Ctrl ;` on your keyboard (same for Mac users)
+* Hit `Enter` on your keyboard
+
+## Add the current time (static)
+* Click on the cell where you want the time to appear
+* Hit `Ctrl Shift ;` on your keyboard (`Command ;` for Mac users)
+* Hit `Enter` on your keyboard
+
+## Add today's date and current time (static)
+* Click on the cell where you want the time to appear
+* Hit `Ctrl ;` on your keyboard (same for Mac users)
+* Hit the `Space bar` on your keyboard (same for Mac users)
+* Hit `Ctrl Shift ;` on your keyboard (`Command ;` for Mac users)
+* Hit `Enter` on your keyboard
+
+## Add a date or time that updates (dynamic)
+* Click on the cell where you today's date and current time to appear
+* Type `=NOW()`
+* Hit `Enter` on your keyboard
+
+This version of the current date and time is `dynamic` and will update when the workbook/sheet is opened

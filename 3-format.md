@@ -16,7 +16,7 @@ In Excel, dates are easier to organize and sort when they are represented numeri
 Let's fix our `Hire Date` column to make it more readable.
 
 * Navigate to the `Employee Sales` sheet (or Sheet1)
-* Click on `Column E`
+* Click on `Column E` to highlight it
 * Navigate to the `Home` tab and the `Number` section
 * Click on the arrow in the bottom right of the `Number` section
 * Under Category, click on `Date`
@@ -28,7 +28,7 @@ The dates in the `Hire Date` columns are now represented by numbers.
 # Format currency
 We can also format our `Sales Q1` and `Sales Q2` columns so that the data are displayed as Currency.
 * Click on `Column C`
-* Drag to highlight `Column D` (both Columns should now be highlighted)
+* Drag to highlight `Column D` (both columns should now be highlighted)
 * Navigate to the `Home` tab and the `Number` section
 * Click on the Drop-Down box
 * Click on `Currency`
@@ -48,12 +48,12 @@ Now let’s say we want to organize our sheet based on `when an employee joined 
   * Set the `Order` drop-down box to `Oldest to Newest`
 * Click on `OK`
 
-Now the data in our sheet is sorted based on Hire Date. We could also sort `Hire Date` as `Newest to Oldest`.
+Now the data in our sheet are sorted based on Hire Date. We could also sort `Hire Date` as `Newest to Oldest`.
 
 # More Help
 
 ## Format data
-Excel includes numerous ways to `format data`. To learn more about them, navigate to the `Home` tab and the `Numbers` section. 
+To learn more about how to `format data`, navigate to the `Home` tab and the `Numbers` section. 
 
 You can also visit <a href="https://support.office.com/en-us/article/enter-and-format-data-fef13169-0a84-4b92-a5ab-d856b0d7c1f7?ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Format_data" target="_blank">Microsoft's Enter and Format Data website</a>.
 

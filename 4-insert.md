@@ -12,7 +12,7 @@ Functions can help you do math, calculate standard deviation, edit text, or find
 
 Today, we are going to focus on two functions: `SUM` and `PROPER`.
 
-To start, let's navigate to the `Employee Sales` sheet (or Sheet1)
+To start, let's navigate to the `Employee Sales` sheet (or Sheet1).
 
 ## SUM function
 
@@ -27,6 +27,7 @@ To do this, we first have to insert a new column to the left of `Hire Date (Colu
   * You can use the same steps to insert rows.
 
 Now we can use the `SUM` function to add `Sales Q1` and `Sales Q2` together.
+* Click on `Cell E2` 
 * Type `=SUM(C2,D2)`
   * Option 1: Type `C2,D2` **OR**
   * Option 2: Click on `C2`, type a `comma (,)` then click on `D2`
@@ -35,7 +36,7 @@ Now we can use the `SUM` function to add `Sales Q1` and `Sales Q2` together.
 To easily sum the remaining employee sales, we can use `Autofill`.
 * Click on `Cell E2`
 * Hover over the bottom right corner of the cell until you get a **black plus sign (+)**
-* Click when you see the `black plus sign (+)`
+* Click and hold when you see the `black plus sign (+)`
 * Drag the `fill handle` to `Cell E10`, then unclick
 
 ## PROPER function
@@ -50,7 +51,7 @@ To do this, we first have to insert a new column before `Salesperson (Column B)`
 
 Now, we can change the capitalization with the `PROPER` function
 * Click on `Cell B1`
-* Type =proper(A1)
+* Type =PROPER(A1)
   * Option 1: Type `A1` **OR**
   * Option 2: Click on `A1`
 * Hit `Enter` on your keyboard
@@ -58,7 +59,7 @@ Now, we can change the capitalization with the `PROPER` function
 To easily capitalize the remaining state names, we can use `Autofill`.
 * Click on `Cell B1`
 * Hover over the bottom right corner of the cell until you get a **black plus sign (+)**
-* Click when you see the `black plus sign (+)`
+* Click and hold when you see the `black plus sign (+)`
 * Drag the `fill handle` to `Cell B10`, then unclick
 
 Our next step is to place these state names back in `Column A` using a special `copy and paste`.
@@ -76,6 +77,6 @@ Since `Column B` is now duplicated, we can delete it.
 * Right click then click on `Delete`
 
 # More Help
-Excel includes numerous other functions. To learn more about them, navigate to the `Formulas` tab and the `Function Library` section. 
+To learn more about other Excel `functions`, navigate to the `Formulas` tab and the `Function Library` section. 
 
 You can also visit <a href=" https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb?ui=en-US&rs=en-US&ad=US" target="_blank">Microsoft's Excel Functions (by Category) website</a>.

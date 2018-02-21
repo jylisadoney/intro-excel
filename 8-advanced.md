@@ -10,7 +10,7 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 Excel offers many other features that you can use to work with your data.
 
-These include [Templates](#templates), [Conditional Formatting](#conditional-formatting), and [Data Validation](#data-validation). [More Help](#more-help) on each of these features is also available.
+These include [Templates](#templates), [Conditional Formatting](#conditional-formatting), and [Data Validation](#data-validation). [More Help](#more-help) on each of these features, including [PivotTables](#pivottables) is also available.
 
 # Templates
 
@@ -24,7 +24,7 @@ If you tend to use the same layout in Excel workbooks, you can save it as a `tem
   * Replace [User Name] with your user name
 * Click `OK`
 
-All templates you save to the `My Templates` folder will now appear as options when you create a new Excel workbook
+Every template you save to the `My Templates` folder will now appear when you create a new Excel workbook
 
 ## Save a workbook as a template
 * Open Excel
@@ -41,13 +41,13 @@ All templates you save to the `My Templates` folder will now appear as options w
 * Click on `Personal`
 * Double-click on the template you want to use
 
-Excel will then create a new workbook based on this template.
+Excel will then create a new workbook based on this template. Be sure to `Save` this new workbook.
 
 # Conditional formatting
 
 `Conditional formatting` in Excel lets you format, highlight, or display data that meet certain criteria.
 
-Built in features let you:
+You can:
 * Format cells based on their values
 * Format cells that contain certain information
 * Format top or bottom values
@@ -56,7 +56,7 @@ Built in features let you:
 
 ## Add conditional formatting
 
-Let’s say we want to highlight the `total sales cells` that are `equal or above the average`.
+Let’s say we want to highlight the `Total Sales cells` that are `equal or above the average`.
 * Navigate to the `CondFormat` sheet in our workbook.
 * Click on `Column E` to highlight the `Total Sales data`
 * Navigate to the `Home` tab and the `Styles` section
@@ -71,7 +71,7 @@ Now we have to set what we want the formatting to look like.
 * Click the color you want to use
 * Click `OK`, then click `OK` again
 
-We can now see that Excel has highlighted the `total sales cells` that are `equal to or above the average` of our data.
+We can now see that Excel has highlighted the `Total Sales cells` that are `equal or above the average` of our data.
 
 ## Edit conditional formatting
 * Navigate to the `Home` tab and the `Styles` section
@@ -83,7 +83,7 @@ We can now see that Excel has highlighted the `total sales cells` that are `equa
 ## Remove conditional formatting
 
 ### Specific cells
-* Click and drag to highlight the `cells, columns, or rows` where you want to remove conditional formatting
+* Click and drag to highlight the cells(s) where you want to remove conditional formatting
 * Navigate to the `Home` tab and the `Styles` section
 * Click on `Conditional Formatting`
 * Click on `Clear Rules` 
@@ -97,21 +97,21 @@ We can now see that Excel has highlighted the `total sales cells` that are `equa
 
 # Data validation
 
-Data validation in Excel is used to restrict what can be entered into a cell.
+Data validation in Excel controls `what` you can enter into a cell.
 
-These first three steps are the same for any data validation.
-* Click to highlight the cell(s) where you want to add validation
+These first three steps are the same for any type of `data validation`.
+* Click and drag to highlight the cell(s) where you want to add data validation
 * Navigate to the `Data` tab and the `Data Tools` section
 * Hover and click the `Data Validation` icon
 
 ## Restrict data entry to whole numbers within limits
-* Click to highlight the cell(s) where you want to add validation
+* Click and drag to highlight the cell(s) where you want to add data validation
 * Navigate to the `Data` tab and the `Data Tools` section
 * Hover and click the `Data Validation` icon
 * In the `Settings` tab:
   * Set the `Allow` drop-down box to `Whole number`
   * Set the `Data` drop-down box to `between`
-  * Enter the `Minimum` and `Maximum` range of whole numbers to allow
+  * Enter the allowed `Minimum` and `Maximum` range of whole numbers
     * For example, Minimum: 1 and Maximum: 25
 * Click `OK`
 
@@ -120,22 +120,22 @@ Now, if you try to enter a number **outside the specified range**, you will see 
 You can even specify the `Input Message` or `Error Alert` if you choose.
 
 ## Restrict data entry to a range of dates
-* Click to highlight the cell(s) where you want to add validation
+* Click and drag to highlight the cell(s) where you want to add data validation
 * Navigate to the `Data` tab and the `Data Tools` section
 * Hover and click the `Data Validation` icon
 * In the `Settings` tab:
   * Set the `Allow` drop-down box to `Date`
   * Set the `Data` drop-down box to `between`
-  * Enter the `Start date` and `End date` to allow
+  * Enter the allowed `Start date` and `End date`
     * For example, Start date: 01/01/1999 and End date: =TODAY()
 * Click `OK`
 
-Now, if you try to enter a date that occurred **before** 01/01/1999 or **after** today, you will see an error message.
+Now, if you try to enter a date **before** 01/01/1999 or **after** today, you will see an error message.
 
 `=TODAY()` will automatically update based on the actual date.
 
 ## Restrict data entry to a drop-down list of data values
-* Click to highlight the cell(s) where you want to add validation
+* Click and drag to highlight the cell(s) where you want to add data validation
 * Navigate to the `Data` tab and the `Data Tools` section
 * Hover and click the `Data Validation` icon
 * Click to highlight the cell or cells you want to validate
@@ -143,15 +143,15 @@ Now, if you try to enter a date that occurred **before** 01/01/1999 or **after**
 * Hover and click the `Data Validation` icon
 * In the `Settings` tab:
   * Set the `Allow` drop-down box to `List`
-  * In the `Source` box, type your data values and separate them with commas without spaces
+  * In the `Source` box, type your data values and **separate them with commas without spaces**
     * For example, `Yes,No,Maybe`
 * Click to check the `In-cell dropdown` box
 * Click `OK`
 
-Now, when you want to enter text into that cell(s), you can select from the **allowed options**.
+Now, when you want to enter text, you can only select from the **allowed options**.
 
 ## Remove data validation 	
-* Click to highlight the cell(s) where you want to remove validation
+*Click and drag to highlight the cell(s) where you want to remove data validation
 * Navigate to the `Data` tab and the `Data Tools` section
 * Hover and click the `Data Validation` icon
 * Click `Clear All`
@@ -159,18 +159,18 @@ Now, when you want to enter text into that cell(s), you can select from the **al
 
 # More Help
 ## Conditional formatting
-Excel includes numerous ways to use `conditional formatting`. To learn more about them, navigate to the `Home` tab and the `Styles` section. 
+To learn more about other types of `conditional formatting`, navigate to the `Home` tab and the `Styles` section. 
 
 You can also visit <a href="https://support.office.com/en-us/article/Enter-and-format-data-fef13169-0a84-4b92-a5ab-d856b0d7c1f7#ID0EAABAAA=Conditional_formatting" target="_blank">Microsoft's Enter and Format Data website</a>.
 
 ## Data validation
-Excel includes numerous ways to add `data validation`. To learn more about them, navigate to the `Data` tab and the `Data Tools` section. 
+To learn more about other types of `data validation`, navigate to the `Data` tab and the `Data Tools` section. 
 
 You can also visit <a href="https://support.office.com/en-us/article/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249" target="_blank">Microsoft's Apply Data Validation to Cells website</a>.
 
 ## PivotTables
 PivotTables offer you multiple ways to analyze and present your data and give you greater control and flexibility.
 
-To learn more about them, navigate to the `Insert` tab and the `Charts` section.
+To learn more about `PivotTables`, navigate to the `Insert` tab and the `Charts` section.
 
 You can also visit <a href="https://support.office.com/en-us/article/Import-and-analyze-data-ccd3c4a6-272f-4c97-afbb-d3f27407fcde#ID0EAABAAA=PivotTables" target="_blank">Microsoft's PivotTables website</a>.
