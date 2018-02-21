@@ -13,7 +13,7 @@ This workshop will get you started with Excel by offering simple ways to:
 
 We will even learn a few tips and tricks that will make you an Excel power-user.
 
-<a href="https://vivo.nkn.uidaho.edu/vivo/display/n104190" target="_blank>**Questions about the workshop?** 
+<a href="https://vivo.nkn.uidaho.edu/vivo/display/n104190" target="_blank">**Questions about the workshop?** 
 
 <div class="toc" markdown="1">
 ## Contents:
