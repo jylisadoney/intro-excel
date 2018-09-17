@@ -16,7 +16,7 @@ We will discuss how to [split text into multiple columns](#split-text-into-multi
 
 Let’s say we want to separate our employee’s first and last names in the `Salesperson` column.
 
-To do this, navigate to the `Tips` sheet in our workbook.
+To do this, navigate to the `Employee Sales sheet (or Sheet1)` in our workbook.
 
 Our first step is to insert a new column to the left of `Sales Q1 (Column C)`.
 * Click on `Column C`
