@@ -6,7 +6,7 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 **Throughout this workshop `Click` refers to a `Left Click` with your mouse**
 
-# Advanced Excel Features
+# Advanced Features
 
 Excel offers many other features that you can use to work with your data.
 
