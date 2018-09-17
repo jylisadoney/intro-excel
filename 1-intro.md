@@ -6,7 +6,8 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 **Throughout this workshop `Click` refers to a `Left Click` with your mouse**
 
-In this introductor section we will discuss [key terminology](#key-terminology) and [naming files](#naming-files).
+# Introduction
+In this introductory section, we will discuss [key terminology](#key-terminology) and [naming files](#naming-files).
 
 # [Key terminology](#key-terminology)
 
