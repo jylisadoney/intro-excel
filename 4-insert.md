@@ -37,7 +37,7 @@ To easily sum the remaining employee sales, we can use `Autofill`.
 * Click on `Cell E2`
 * Hover over the bottom right corner of the cell until you get a **black plus sign (+)**
 * Click and hold when you see the `black plus sign (+)`
-* Drag the `fill handle` to `Cell E10`, then unclick
+* Drag the `fill handle` to `Cell E23`, then unclick
 
 ## [PROPER function](#proper-function)
 
@@ -51,7 +51,7 @@ To do this, we first have to insert a new column before `Salesperson (Column B)`
 
 Now, we can change the capitalization with the `PROPER` function
 * Click on `Cell B1`
-* Type =PROPER(A1)
+* Type `=PROPER(A1)`
   * Option 1: Type `A1` **OR**
   * Option 2: Click on `A1`
 * Hit `Enter` on your keyboard
@@ -60,7 +60,7 @@ To easily capitalize the remaining state names, we can use `Autofill`.
 * Click on `Cell B1`
 * Hover over the bottom right corner of the cell until you get a **black plus sign (+)**
 * Click and hold when you see the `black plus sign (+)`
-* Drag the `fill handle` to `Cell B10`, then unclick
+* Drag the `fill handle` to `Cell B23`, then unclick
 
 Our next step is to place these state names back in `Column A` using a special `copy and paste`.
 * Click on `Column B` to highlight it
