@@ -84,6 +84,6 @@ To edit the text:
 You can use the same steps to add a title to the `Primary Vertical axis`.
 
 ## More Help
-To learn more about `charts and graphs`, navigate to the `Insert` tab and the `Charts` section. 
+To learn more about `charts and graphs`, open Excel and navigate to the `Insert` tab and the `Charts` section. 
 
 You can also visit <a href="https://support.office.com/en-us/article/available-chart-types-in-office-a6187218-807e-4103-9e0a-27cdb19afb90?ui=en-US&rs=en-US&ad=US" target="_blank">Microsoft's Available Chart Types website</a>.
