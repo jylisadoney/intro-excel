@@ -63,9 +63,9 @@ Now the data in our sheet are sorted based on Hire Date. We could also sort `Hir
 
 ### Add conditional formatting
 
-Let’s say we want to highlight the `Total Sales cells` that are `equal or above the average`.
-* Navigate to the `CondFormat` sheet in our workbook.
-* Click on `Column E` to highlight the `Total Sales data`
+Let’s say we want to highlight the `Sales Q1` amounts that are `equal or above the average`.
+* Navigate to the `Employee Sales` sheet (or Sheet1) in our workbook.
+* Click on `Column C` to highlight the `Sales Q1 data`
 * Navigate to the `Home` tab and the `Styles` section
 * Click on `Conditional Formatting`
 * Click on `New Rule`
@@ -78,12 +78,13 @@ Now we have to set what we want the formatting to look like.
 * Click the color you want to use
 * Click `OK`, then click `OK` again
 
-We can now see that Excel has highlighted the `Total Sales cells` that are `equal or above the average` of our data.
+We can now see that Excel has highlighted the `Sales Q1` amounts that are `equal or above the average` of our data.
 
 ### Edit conditional formatting
 * Navigate to the `Home` tab and the `Styles` section
 * Click on `Conditional Formatting`
 * Click on `Manage Rules`
+** In the 'Show formatting rules for' drop-down, select 'This Worksheet'
 * Click to highlight the rule you want to edit
 * Click on `Edit Rule` and enter your changes
 
