@@ -14,7 +14,7 @@ Today, we will [create a Bar Chart](#create-a-bar-chart) that compares each empl
 
 ## [Create a bar chart](#create-a-bar-chart)
 
-First, let's navigate to the `Charts` sheet in our workbook.
+First, let's navigate to the `Employee Sales sheet (or Sheet1)` in our workbook.
 * Highlight all of our data
   * Option 1: Click on `Cell A1` and drag to highlight all data **OR**
   * Option 2: Hit `Ctrl A` on your keyboard (`Command A` for Mac users)
@@ -30,7 +30,7 @@ Right away, we see that this chart is a **mess** and the visualization is confus
 
 Since we only want to compare `sales in Q1 and Q2`, we aren't interested in Total Sales or Hire Date.
 
-To remove the `Total Sales` and `Hire Dates` from our chart:
+To remove the `Total Sales` and `Hire Date` from our chart:
 * Click on the chart
 * Click on the `Funnel Icon`
 * Under `Series`, click on `Total Sales` and `Hire Date` to uncheck the boxes
