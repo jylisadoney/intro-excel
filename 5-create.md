@@ -10,9 +10,9 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 Not only can Excel help you organize data and information, it can also help you create charts and graphs to visually share your data.
 
-Today, we will create a `Bar Chart` that compares each employee's sales in Q1 and Q2.
+Today, we will create a [Bar Char](#bar-chart) that compares each employee's sales in Q1 and Q2.
 
-## Create a bar chart
+## [Create a bar chart](#bar-chart)
 
 First, let's navigate to the `Charts` sheet in our workbook.
 * Highlight all of our data
