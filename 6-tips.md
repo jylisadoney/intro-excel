@@ -10,7 +10,9 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 Excel offers many other ways to organize your sheets and work with your data.
 
-## Split text into multiple columns
+We will discuss how to [split text into multiple columns](#split), [wrap text](#wrap), and [add the date and time](#add-date-time).
+
+# [Split text into multiple columns](#split)
 
 Let’s say we want to separate our employee’s first and last names in the `Salesperson` column.
 
@@ -43,12 +45,13 @@ We can also `resize the columns` if we need to.
 * Click on `Format`
 * Click on `Autofit Column Width`
 
-## Wrap text
+# [Wrap text](#wrap)
 If your data is text-based, you can `wrap the text` so it appears on multiple lines in a cell.
 * Click to highlight the cell, column, or row where you want to wrap text
 * Navigate to the `Home` tab and `Alignment` section
 * Click on `Wrap Text`
 
+# [Add date and time](#add-date-time)
 ## Add today's date (static)
 * Click on the cell where you want the date to appear
 * Hit `Ctrl ;` on your keyboard (same for Mac users)
@@ -59,7 +62,7 @@ If your data is text-based, you can `wrap the text` so it appears on multiple li
 * Hit `Ctrl Shift ;` on your keyboard (`Command ;` for Mac users)
 * Hit `Enter` on your keyboard
 
-## Add today's date and current time (static)
+## Add today's date and current time (static)]
 * Click on the cell where you want the time to appear
 * Hit `Ctrl ;` on your keyboard (same for Mac users)
 * Hit the `Space bar` on your keyboard (same for Mac users)
