@@ -12,7 +12,7 @@ Functions can help you do math, calculate standard deviation, edit text, or find
 
 Today, we are going to focus on two functions: the [SUM function](#sum-function) and the [PROPER function](#proper-function).
 
-To start, let's navigate to the `Employee Sales` sheet (or Sheet1).
+To start, let's navigate to the `Employee Sales sheet (or Sheet1)`.
 
 ## [SUM function](#sum-function)
 
