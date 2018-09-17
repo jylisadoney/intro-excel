@@ -8,7 +8,9 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 # Format and Sort Data
 
-After we've organized our spreadsheet, we can work on formatting and sorting our data. We will discuss how to [format dates](#format-dates), [format currency](#format-currency), [sort data](#sort-data), and add [conditional formatting](#conditional-formatting).
+After we've organized our spreadsheet, we can work on formatting and sorting our data. 
+
+We will discuss how to [format dates](#format-dates), [format currency](#format-currency), [sort data](#sort-data), and add [conditional formatting](#conditional-formatting).
 
 # [Format dates](#format-dates)
 In Excel, dates are easier to organize and sort when they are represented numerically.
