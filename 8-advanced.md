@@ -10,7 +10,7 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 Excel offers many other features that you can use to work with your data.
 
-These include [Templates](#templates), [Conditional Formatting](#conditional-formatting), and [Data Validation](#data-validation). Links to [more help](#more-help) on each of these features, including [PivotTables](#pivottables), is available at the bottom of the page.
+These include [Templates](#templates) and [Data Validation](#data-validation). Links to [more help](#more-help) on each of these features, including [PivotTables](#pivottables), is available at the bottom of the page.
 
 # Templates
 
@@ -44,56 +44,6 @@ Unless you want to change the `default personal templates location`, you will on
 * Double-click on the template you want to use
 
 Excel will then create a new workbook based on this template. Be sure to `Save` this new workbook.
-
-# Conditional formatting
-
-`Conditional formatting` in Excel lets you:
-* Format cells based on their values
-* Format cells that contain certain information
-* Format top or bottom values
-* Format values that are above or below the average
-* Format unique or duplicate values
-
-## Add conditional formatting
-
-Let’s say we want to highlight the `Total Sales cells` that are `equal or above the average`.
-* Navigate to the `CondFormat` sheet in our workbook.
-* Click on `Column E` to highlight the `Total Sales data`
-* Navigate to the `Home` tab and the `Styles` section
-* Click on `Conditional Formatting`
-* Click on `New Rule`
-* Click on `Format only values that are above or below average`
-* In the drop-down box, select `equal or above`
-
-Now we have to set what we want the formatting to look like.
-* Click on `Format`
-* Click on `Fill`
-* Click the color you want to use
-* Click `OK`, then click `OK` again
-
-We can now see that Excel has highlighted the `Total Sales cells` that are `equal or above the average` of our data.
-
-## Edit conditional formatting
-* Navigate to the `Home` tab and the `Styles` section
-* Click on `Conditional Formatting`
-* Click on `Manage Rules`
-* Click to highlight the rule you want to edit
-* Click on `Edit Rule` and enter your changes
-
-## Remove conditional formatting
-
-### Specific cells
-* Click and drag to highlight the cells(s) where you want to remove conditional formatting
-* Navigate to the `Home` tab and the `Styles` section
-* Click on `Conditional Formatting`
-* Click on `Clear Rules` 
-* Click on `Clear Rules from Selected Cells`
-
-### Entire sheet
-* Navigate to the `Home` tab and the `Styles` section
-* Click on `Conditional Formatting`
-* Click on `Clear Rules` 
-* Click on `Clear Rules from Entire Sheet`
 
 # Data validation
 
@@ -160,11 +110,6 @@ Now, when you want to enter text, you can only select from the **allowed options
 # More Help
 ## Templates
 To learn more about `templates`, visit <a href="https://support.office.com/en-us/article/save-a-workbook-as-a-template-58c6625a-2c0b-4446-9689-ad8baec39e1e" target="_blank">Microsoft's Save a Workbook as a Template website</a>.
-
-## Conditional formatting
-To learn more about `conditional formatting`, navigate to the `Home` tab and the `Styles` section. 
-
-You can also visit <a href="https://support.office.com/en-us/article/Enter-and-format-data-fef13169-0a84-4b92-a5ab-d856b0d7c1f7#ID0EAABAAA=Conditional_formatting" target="_blank">Microsoft's Enter and Format Data website</a>.
 
 ## Data validation
 To learn more about `data validation`, navigate to the `Data` tab and the `Data Tools` section. 
