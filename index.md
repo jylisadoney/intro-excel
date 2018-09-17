@@ -13,6 +13,11 @@ This workshop will get you started with Excel by offering simple ways to:
 
 We will even learn a few tips and tricks that will make you an Excel power-user.
 
+# Workshop Prep and Downloads 
+
+1. Bring a laptop with Excel installed or use one of ours
+  * If your laptop doesn't have Excel, please follow <a href="https://www.uidaho.edu/infrastructure/its/self-help/ms-office?" target="_blank">the University of Idaho ITS instructions to download MS Office</a>
+1. Download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
 <a href="https://vivo.nkn.uidaho.edu/vivo/display/n104190" target="_blank">**Questions about the workshop?** 
 
 <div class="toc" markdown="1">
