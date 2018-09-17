@@ -10,9 +10,9 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 Not only can Excel help you organize data and information, it can also help you create charts and graphs to visually share your data.
 
-Today, we will create a [Bar Chart](#bar-chart) that compares each employee's sales in Q1 and Q2.
+Today, we will [create a Bar Chart](#create-a-bar-chart) that compares each employee's sales in Q1 and Q2 and and [describe the data](#describe-the-date) in more detail.
 
-## [Create a bar chart](#bar-chart)
+# [Create a bar chart](#create-a-bar-chart)
 
 First, let's navigate to the `Charts` sheet in our workbook.
 * Highlight all of our data
@@ -47,7 +47,7 @@ To remove `State Office` names from our chart:
 
 After these two small changes, our chart looks so much better!
 
-# Describe the data
+# [Describe the data](#describe-the-data)
 Another important part of creating visualizations is to add text that describes the data.
 
 ## Add a chart title
