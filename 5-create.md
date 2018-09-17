@@ -10,7 +10,7 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 Not only can Excel help you organize data and information, it can also help you create charts and graphs to visually share your data.
 
-Today, we will [create a Bar Chart](#create-a-bar-chart) that compares each employee's sales in Q1 and Q2 and and [describe the data](#describe-the-data) in more detail.
+Today, we will [create a Bar Chart](#create-a-bar-chart) that compares each employee's sales in Q1 and Q2 and [describe the data](#describe-the-data) in more detail.
 
 ## [Create a bar chart](#create-a-bar-chart)
 
@@ -36,9 +36,9 @@ To remove the `Total Sales` and `Hire Date` from our chart:
 * Under `Series`, click on `Total Sales` and `Hire Date` to uncheck the boxes
 * Click on `Apply`
 
-Our chart is looking much better - but including the state office names in our chart makes it difficult to read.
+Our chart is looking much better - but including the state names in our chart makes it difficult to read.
 
-To remove `State Office` names from our chart:
+To remove `State` names from our chart:
 * Click on the chart
 * Click on the `Funnel Icon`
 * Click on `Names`
