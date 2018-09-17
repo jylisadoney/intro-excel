@@ -6,7 +6,9 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 **Throughout this workshop `Click` refers to a `Left Click` with your mouse**
 
-# Key terminology
+In this introductor section we will discuss [key terminology](#key-terminology) and [naming files](#naming-files).
+
+# [Key terminology](#key-terminology)
 
 An entire Excel file is called a `workbook` and every workbook includes one or more `sheets`. 
 
@@ -22,7 +24,7 @@ The intersection between a column and a row is a `cell`.
 
 The `formula bar` is where you can see the formulas and functions you've inserted into certain cells.
 
-# Naming Files
+# [Naming Files](#naming-files)
 
 It is important to save, name, and version an Excel workbook so it is easy to find in the future.
 
