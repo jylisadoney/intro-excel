@@ -17,7 +17,7 @@ In Excel, dates are easier to organize and sort when they are represented numeri
 
 Let's fix our `Hire Date` column to make it more readable.
 
-* Navigate to the `Employee Sales` sheet (or Sheet1)
+* Navigate to the `Employee Sales sheet (or Sheet1)` in our workbook
 * Click on `Column E` to highlight it
 * Navigate to the `Home` tab and the `Number` section
 * Click on the arrow in the bottom right of the `Number` section
@@ -64,7 +64,7 @@ Now the data in our sheet are sorted based on Hire Date. We could also sort `Hir
 ### Add conditional formatting
 
 Let’s say we want to highlight the `Sales Q1` amounts that are `equal or above the average`.
-* Navigate to the `Employee Sales` sheet (or Sheet1) in our workbook.
+* Navigate to the `Employee Sales sheet (or Sheet1)` in our workbook.
 * Click on `Column C` to highlight the `Sales Q1 data`
 * Navigate to the `Home` tab and the `Styles` section
 * Click on `Conditional Formatting`
@@ -84,7 +84,7 @@ We can now see that Excel has highlighted the `Sales Q1` amounts that are `equal
 * Navigate to the `Home` tab and the `Styles` section
 * Click on `Conditional Formatting`
 * Click on `Manage Rules`
-** In the 'Show formatting rules for' drop-down, select 'This Worksheet'
+  * In the 'Show formatting rules for' drop-down, select 'This Worksheet'
 * Click to highlight the rule you want to edit
 * Click on `Edit Rule` and enter your changes
 
