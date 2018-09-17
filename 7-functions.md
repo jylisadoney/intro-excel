@@ -10,7 +10,7 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 Excel offers many other functions that you can use to work with your data. These include [math & trig](#math-&-trig), [statistical](#statistical), and [text](#text) functions.
 
-## [Math & Trig](#math-trig)
+## [Math & Trig](#math-&-trig)
 * Difference (no function exists)
   * Click on the cell where you want to calculate the difference 
   * Type: =CellA-CellB
