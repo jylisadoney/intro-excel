@@ -20,8 +20,7 @@ We will even learn a few tips and tricks that will make you an Excel power-user.
 1. Download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
 <a href="https://vivo.nkn.uidaho.edu/vivo/display/n104190" target="_blank">**Questions about the workshop?** 
 
-
-
+<br><br>
 > hosted by the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library</a> ({{ site.pub_year }})
 >
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
