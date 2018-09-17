@@ -9,7 +9,7 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 # Introduction
 In this introductory section, we will discuss [key terminology](#key-terminology) and [naming files](#naming-files).
 
-# [Key terminology](#key-terminology)
+## [Key terminology](#key-terminology)
 
 An entire Excel file is called a `workbook` and every workbook includes one or more `sheets`. 
 
@@ -25,11 +25,11 @@ The intersection between a column and a row is a `cell`.
 
 The `formula bar` is where you can see the formulas and functions you've inserted into certain cells.
 
-# [Naming Files](#naming-files)
+## [Naming Files](#naming-files)
 
 It is important to save, name, and version an Excel workbook so it is easy to find in the future.
 
-## File names
+### File names
 In your file names, consider including:
 * Assignment or project names
 * Your name or initials
@@ -40,24 +40,24 @@ In your file names, consider including:
 
 `For example: SOC320_SMM_20180205_v001`
 
-## Characters
+### Characters
 Spaces don't work well in file names, but you can use `underscores (_)` or `dashes (-)` instead. 
 
 Special characters should also be avoided: `~ ! @ # $ % ^ & * ( ) ; < > ? , [ ] { } ' " |`.
 
-## Dates
+### Dates
 To make sure your files stay in chronological order, insert dates as `YYYYMMDD`.
 
-## Versioning
+### Versioning
 Consider using `leading zeros` (001, 002 ... 010 ... 100) for version numbers so files sort in numeric order.
 
-## Consistency
+### Consistency
 Finally, keep your file naming as consistent as possible within the same assignment or project.
 * SOC320_SMM_20180205_v001
 * SOC320_SMM_20180205_v002
 * SOC320_SMM_20180205_v010
 
-## Rename our sample workbook
+### Rename our sample workbook
 * Click on `File` then click on `Save As`
 * Browse to find a location to save the workbook
 * Rename the file and add:
