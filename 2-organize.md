@@ -6,11 +6,13 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 **Throughout this workshop `Click` refers to a `Left Click` with your mouse**
 
-# Part One: Organize Spreadsheets
+# Organize Spreadsheets
 
 When working in Excel workbooks, we often need to organize our sheet to make the data readable and visually appealing.
 
-# Resize columns and rows
+We will discuss how to [resize columns and rows](#resize); [rename a column header](#rename); [freeze panes](#freeze); and [insert, delete, and rename sheets](#insert).
+
+# [Resize columns and rows](#resize)
 If you encounter columns or rows that are too big or too small, you can always resize them.
 
 Let's navigate to `Sheet1`.
@@ -28,14 +30,14 @@ Let's navigate to `Sheet1`.
 * Click and drag the column boundary to the width you want
   * You can also drag to resize row height
 
-# Rename a column header
+# [Rename a column header](#rename)
 When working with data, we can rename column headers so they are more descriptive.
 
 Let's say we want to rename `Column B` to `Employees`.
 * Click on `Cell B1`  
 * Type the word `Employees`
 
-# Freeze panes
+# [Freeze panes](#freeze)
 Right now, our sheet only includes 10 rows, but if you have a spreadsheet with hundreds of rows or columns it can be difficult to keep your column headings visible.
 
 What we can do is `freeze panes` to keep part of the sheet visible when we scroll.
@@ -59,7 +61,7 @@ Now our top row and Columns A and B are frozen when we scroll `vertically` or `h
 * Click the `Freeze Panes` icon
 * Click on `Unfreeze Panes`
 
-# Insert, delete, and rename sheets
+# [Insert, delete, and rename sheets](#insert)
 Depending on your data, you may have/need multiple `sheets` in your `workbook`.
 
 ## Insert a sheet
