@@ -10,7 +10,7 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 Functions can help you do math, calculate standard deviation, edit text, or find specific types of data.
 
-Today, we are going to focus on two functions: `[SUM](#sum)` and `[PROPER](#proper)`.
+Today, we are going to focus on two functions: the [SUM function](#sum) and the [PROPER function](#proper).
 
 To start, let's navigate to the `Employee Sales` sheet (or Sheet1).
 
