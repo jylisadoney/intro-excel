@@ -10,11 +10,11 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 Functions can help you do math, calculate standard deviation, edit text, or find specific types of data.
 
-Today, we are going to focus on two functions: `SUM` and `PROPER`.
+Today, we are going to focus on two functions: `[SUM](#sum)` and `[PROPER](#proper)`.
 
 To start, let's navigate to the `Employee Sales` sheet (or Sheet1).
 
-## SUM function
+## [SUM function](#sum)
 
 The `SUM` function (a Math & Trig function) adds values together. 
 
@@ -39,7 +39,7 @@ To easily sum the remaining employee sales, we can use `Autofill`.
 * Click and hold when you see the `black plus sign (+)`
 * Drag the `fill handle` to `Cell E10`, then unclick
 
-## PROPER function
+## [PROPER function](#proper)
 
 As we are looking at our data, we can see that the state names in `Column A` are all lowercase.
 
