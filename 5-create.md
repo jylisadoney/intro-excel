@@ -12,7 +12,7 @@ Not only can Excel help you organize data and information, it can also help you 
 
 Today, we will [create a Bar Chart](#create-a-bar-chart) that compares each employee's sales in Q1 and Q2 and and [describe the data](#describe-the-data) in more detail.
 
-# [Create a bar chart](#create-a-bar-chart)
+## [Create a bar chart](#create-a-bar-chart)
 
 First, let's navigate to the `Charts` sheet in our workbook.
 * Highlight all of our data
@@ -26,7 +26,7 @@ We can now work on creating our chart.
 
 Right away, we see that this chart is a **mess** and the visualization is confusing -- but we can fix it!
 
-## Edit the data in a bar chart
+### Edit the data in a bar chart
 
 Since we only want to compare `sales in Q1 and Q2`, we aren't interested in Total Sales or Hire Date.
 
@@ -47,17 +47,17 @@ To remove `State Office` names from our chart:
 
 After these two small changes, our chart looks so much better!
 
-# [Describe the data](#describe-the-data)
+## [Describe the data](#describe-the-data)
 Another important part of creating visualizations is to add text that describes the data.
 
-## Add a chart title
+### Add a chart title
 * Click on the chart 
 * Navigate to the `Design` tab
 * Click on `Chart Title`
 * Type a title that describes the data
   * Maybe something like `Employee Sales by Quarter`
 
-## Position the chart legend
+### Position the chart legend
 * Click on the chart
 * Navigate to the `Design` tab
 * Click on `Add Chart Element`
@@ -66,7 +66,7 @@ Another important part of creating visualizations is to add text that describes 
 
 Our legend is now positioned to the `right` of our `bar chart`.
 
-## Add a title to the horizontal axis (x-axis)
+### Add a title to the horizontal axis (x-axis)
 * Click on the chart
 * Navigate to the `Design` tab
 * Click on `Add Chart Element`
@@ -83,7 +83,7 @@ To edit the text:
 
 You can use the same steps to add a title to the `Primary Vertical axis`.
 
-# More Help
+## More Help
 To learn more about `charts and graphs`, navigate to the `Insert` tab and the `Charts` section. 
 
 You can also visit <a href="https://support.office.com/en-us/article/available-chart-types-in-office-a6187218-807e-4103-9e0a-27cdb19afb90?ui=en-US&rs=en-US&ad=US" target="_blank">Microsoft's Available Chart Types website</a>.
