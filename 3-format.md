@@ -84,7 +84,7 @@ We can now see that Excel has highlighted the `Sales Q1` amounts that are `equal
 * Navigate to the `Home` tab and the `Styles` section
 * Click on `Conditional Formatting`
 * Click on `Manage Rules`
-  * In the 'Show formatting rules for' drop-down, select 'This Worksheet'
+  * In the `Show formatting rules for` drop-down, select `This Worksheet`
 * Click to highlight the rule you want to edit
 * Click on `Edit Rule` and enter your changes
 
