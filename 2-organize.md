@@ -10,9 +10,9 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 When working in Excel workbooks, we often need to organize our sheet to make the data readable and visually appealing.
 
-We will discuss how to [resize columns and rows](#resize); [rename a column header](#rename); [freeze panes](#freeze); and [insert, delete, and rename sheets](#insert).
+We will discuss how to [resize columns and rows](#resize-columns-and-rows); [rename a column header](#rename); [freeze panes](#freeze); and [insert, delete, and rename sheets](#insert).
 
-# [Resize columns and rows](#resize)
+# [Resize columns and rows](#resize-columns-and-rows)
 If you encounter columns or rows that are too big or too small, you can always resize them.
 
 Let's navigate to `Sheet1`.
