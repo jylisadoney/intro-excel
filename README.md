@@ -1,6 +1,6 @@
-# Introduction to Excel: Tips, Tricks, and Strategies
+# Introduction to Excel: Part I and II
 
-Jekyll repository for the "Introduction to Excel: Tips, Tricks, and Strategies" workshop at the University of Idaho Library in February 2018.
+Jekyll repository for the "Introduction to Excel: Part I and II" workshop series at the University of Idaho Library.
 
 <link to repository>
 
