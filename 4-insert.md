@@ -64,8 +64,8 @@ To easily capitalize the remaining state names, we can use `Autofill`.
 
 Our next step is to place these state names back in `Column A` using a special `copy and paste`.
 * Click on `Column B` to highlight it
-* Right click on `Column B`
-* Click on `Copy`
+* Right click on `Column B` then click on `Copy`
+  * You can also hit `Ctrl + C` (or `Cmd + C` on a Mac) on your keyboard to copy data
 * Click on `Column A` to highlight it
 * Right click on `Column A` 
 * Click on `Paste Special`
