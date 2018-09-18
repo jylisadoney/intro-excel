@@ -5,13 +5,16 @@ title: Home
 
 Do you want to learn the basics of Excel and a few time-saving tricks? 
 
-This workshop will get you started with Excel by offering simple ways to:
+Part I of this workshop will get you started with Excel by offering simple ways to:
 - organize spreadsheets
 - format data
-- insert functions
-- create charts
+- insert basic functions
 
-We will even learn a few tips and tricks that will make you an Excel power-user.
+Part II of this workshop will show you how to:
+- create charts and graphs
+- insert advanced functions
+
+We will even learn a few tips and tricks in both workshops that will make you an Excel power-user.
 
 # Workshop Prep and Downloads 
 
