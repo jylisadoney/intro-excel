@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-# Introduction to Excel: Tips, Tricks, and Strategies
+# Introduction to Excel: Part I and II
 
 Do you want to learn the basics of Excel and a few time-saving tricks? 
 
