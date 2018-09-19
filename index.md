@@ -5,12 +5,12 @@ title: Home
 
 Do you want to learn the basics of Excel and a few time-saving tricks? 
 
-Part I of this workshop series will get you started with Excel by offering simple ways to:
+<a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">Part I of this workshop series</a> will get you started with Excel by offering simple ways to:
 - organize spreadsheets
 - format data
 - insert basic functions
 
-Part II of this workshop series will show you how to:
+<a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">Part II of this workshop series</a> will show you how to:
 - create charts and graphs
 - insert advanced functions
 
