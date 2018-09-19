@@ -7,13 +7,13 @@ Jekyll repository for the "Introduction to Excel: Part I and II" workshop series
 Abstract:
 Do you want to learn the basics of Excel and a few time-saving tips? 
 
-Part I of this workshop series will get you started with Excel by offering simple ways to:
+<a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">Introduction to Excel Part I: Tips, Tricks, and Strategies</a> will get you started with Excel by offering simple ways to:
 - organize spreadsheets
 - format data
 - insert basic functions
 
-Part II of this workshop series will show you how to:
-- create charts and graphs
+<a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">Introduction to Excel Part II: Advanced Functions, Charts, and Graphs</a> will show you how to:
 - insert advanced functions
+- create charts and graphs
 
 We will even learn a few tips and tricks in both workshops that will make you an Excel power-user.
