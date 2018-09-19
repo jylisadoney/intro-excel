@@ -3,26 +3,20 @@ title: Home
 ---
 # Introduction to Excel: Part I and II
 
-Do you want to learn the basics of Excel and a few time-saving tricks? 
+Do you want to learn the basics of Excel and a few time-saving tips? 
 
-<a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">Part I of this workshop series</a> will get you started with Excel by offering simple ways to:
+<a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">Introduction to Excel Part I: Tips, Tricks, and Strategies</a> will get you started with Excel by offering simple ways to:
 - organize spreadsheets
 - format data
 - insert basic functions
 
-<a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">Part II of this workshop series</a> will show you how to:
-- create charts and graphs
+<a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">Introduction to Excel Part II: Advanced Functions, Charts, and Graphs</a> will show you how to:
 - insert advanced functions
+- create charts and graphs
 
 We will even learn a few tips and tricks in both workshops that will make you an Excel power-user.
 
-# Workshop Prep and Downloads 
-
-1. Bring a laptop with Excel installed or use one of ours
-  * If your laptop doesn't have Excel, please follow <a href="https://www.uidaho.edu/infrastructure/its/self-help/ms-office?" target="_blank">the University of Idaho ITS instructions to download MS Office</a>
-1. Download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
-
-<a href="https://vivo.nkn.uidaho.edu/vivo/display/n104190" target="_blank">**Questions about the workshop?** 
+<a href="https://vivo.nkn.uidaho.edu/vivo/display/n104190" target="_blank">**Questions about the workshops?** 
 
 <br><br>
 > hosted by the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library</a> ({{ site.pub_year }})
