@@ -8,7 +8,7 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # Site settings
-title: "Introduction to Excel: Tips, Tricks, and Strategies"
+title: "Introduction to Excel: Part I and II"
 # description and keywords for meta tags
 description: "Learn the basics of Excel and time saving strategies"
 keywords: "excel, introduction, workshops"
