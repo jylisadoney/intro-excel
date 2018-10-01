@@ -13,7 +13,9 @@ Do you want to learn the basics of Excel and a few time-saving tips?
 - insert basic functions
 
 <a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">Introduction to Excel Part II: Advanced Functions, Charts, and Graphs</a> will show you how to:
-- insert advanced functions
+- insert advanced functions 
 - create charts and graphs
+- generate PivotTables
+- record and test macros
 
 We will even learn a few tips and tricks in both workshops that will make you an Excel power-user.
